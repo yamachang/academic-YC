@@ -33,8 +33,8 @@ tags:
 title: Childhood Gender Nonconformity and Identity Development Among a Diverse Transgender Community Sample in the United States
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
+url_pdf: '#'
+url_poster: https://osf.io/dwvqh/
 url_project: ""
 url_slides: ""
 url_source: '#'
