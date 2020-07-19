@@ -7,8 +7,9 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- **Chang, Y.**
+- Bockting, W.O.
+date: "2020-06-12T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -24,7 +25,7 @@ publication: ""
 publication_short: ""
 publication_types:
 - "4"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2020-06-12T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
