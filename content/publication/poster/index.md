@@ -23,7 +23,7 @@ projects:
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
+- "4"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
