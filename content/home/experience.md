@@ -34,14 +34,13 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Research Intern"
+  title = "Research Assistant"
   company = "Columbia Psychiatry | The Program for the Study of LGBT Health"
   company_url = "http://www.lgbthealthprogram.org/"
   location = "New York, NY"
   date_start = "2018-12-01"
   date_end = "2020-06-30"
   description = """
-  Responsibilities include:
   
   * Independent research project
   * Quantitative and qualitative analysis
@@ -49,14 +48,13 @@ date_format = "Jan 2006"
   """
   
 [[experience]]
-  title = "Research Assistant"
+  title = "Summer Research Assistant"
   company = "Harvard University | Stress and Development Laboratory"
   company_url = "https://sdlab.fas.harvard.edu/"
   location = "Cambridge, MA"
   date_start = "2019-06-18"
   date_end = "2019-08-29"
   description = """
-  Responsibilities include:
   
   * EEG and fMRI task development
   * Literature review
@@ -71,7 +69,6 @@ date_format = "Jan 2006"
   date_start = "2016-08-27"
   date_end = "2017-09-30"
   description = """
-  Responsibilities include:
   
   * Coordinating several longitudinal studies
   * Administering structural interviews and cognitive testing
@@ -86,7 +83,6 @@ date_format = "Jan 2006"
   date_start = "2017-02-23"
   date_end = "2017-06-30"
   description = """
-  Responsibilities include:
   
   * Assessing needs and identifiying crisis
   * Client management
