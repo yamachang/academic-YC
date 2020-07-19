@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yama Chang
+title: Yama (Ya-Wen) Chang
 
 # Username (this should match the folder name)
 authors:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: MA in Clinical Psychology
     institution: Teachers College, Columbia University
-    year: May 2020
+    year: 2020
   - course: BA in Economics
     institution: National Taiwan University
     year: 2012
