@@ -28,7 +28,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: Mental Health Disparities Among LGBTQ Asian and Pacific Islander Youth- A Cross-Sectional Analysis
+title: Mental Health Disparities Among LGBTQ Asian and Pacific Islander Youth - A Cross-Sectional Analysis
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://arxiv.org/pdf/1512.04133v1
