@@ -27,8 +27,7 @@ publication_types:
 - "1"
 publishDate: "2020-06-12T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 tags:
 - Source Themes
 title: Childhood Gender Nonconformity and Identity Development Among a Diverse Transgender Community Sample in the United States
