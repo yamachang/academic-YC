@@ -7,38 +7,32 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- **Chang, Y.**
+- Bockting, W.O.
+date: "2020-06-12T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: **Yama Chang**'
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: 
+  url: 
 projects:
 - internal-project
 publication: ""
 publication_short: ""
 publication_types:
-- "3"
-publishDate: "2017-01-01T00:00:00Z"
+- "4"
+publishDate: "2020-06-12T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+title: Childhood Gender Nonconformity and Identity Development Among a Diverse Transgender Community Sample in the United States
+url_poster: https://osf.io/dwvqh/
 ---
 
 {{% alert note %}}
