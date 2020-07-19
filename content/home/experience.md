@@ -17,28 +17,80 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Database Coordinator"
+  company = "UPMC"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Pittsburgh, PA"
+  date_start = "2020-06-22"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data preprocessing and structural imaging analysis
+  * Manage databases in RedCap for R01 longitudinal study
+  * Data analysis, data visualization and presentation, as well as manuscript preparation
+  """
+  
+[[experience]]
+  title = "Research Intern"
+  company = "Columbia Psychiatry | The Program for the Study of LGBT Health"
+  company_url = "http://www.lgbthealthprogram.org/"
+  location = "New York, NY"
+  date_start = "2018-12-01"
+  date_end = "2020-06-30"
+  description = """
+  Responsibilities include:
+  
+  * Independent research project
+  * Quantitative and qualitative analysis
+  * Manuscript preparation 
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Harvard University | Stress and Development Laboratory"
+  company_url = "https://sdlab.fas.harvard.edu/"
+  location = "Cambridge, MA"
+  date_start = "2019-06-18"
+  date_end = "2019-08-29"
+  description = """
+  Responsibilities include:
+  
+  * EEG and fMRI task development
+  * Literature review
+  * Data management
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Clinical Research Coordinator"
+  company = "Taipei City Hospital and Psychiatric Center | Lab of Clinical and Translational Studies"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Taiwan"
+  date_start = "2016-08-27"
+  date_end = "2017-09-30"
+  description = """
+  Responsibilities include:
+  
+  * Coordinating several longitudinal studies
+  * Administering structural interviews and cognitive testing
+  * Quantitative analysis
+  """
+  
+[[experience]]
+  title = "Hotline Counselor"
+  company = "Taiwan LGBTQ Hotline Association"
+  company_url = "https://hotline.org.tw/english"
+  location = "Taiwan"
+  date_start = "2017-02-23"
+  date_end = "2017-06-30"
+  description = """
+  Responsibilities include:
+  
+  * Assessing needs and identifiying crisis
+  * Client management
+  * AIDS/HIV education
+  """
 
 +++
