@@ -20,7 +20,7 @@ publishDate: "2020-06-12T00:00:00Z"
 slides: example
 summary: 
 tags:
-- Poster
+- Academic Poster
 title: Childhood Gender Nonconformity and Identity Development Among a Diverse Transgender Community Sample in the United States
 url_pdf: https://osf.io/dwvqh/
 ---
