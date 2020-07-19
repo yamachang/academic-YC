@@ -3,7 +3,7 @@ abstract: An ever-growing body of research has focused on lesbian, gay, bisexual
 authors:
 - Tnag, S.
 - Chang, Y.
-date: "2019-12-04T00:00:00Z"
+date: "2020-08-06T00:00:00Z"
 doi: ""
 featured: false
 projects:
