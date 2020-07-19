@@ -8,6 +8,5 @@ types = [ "pub_uncat",
           "pub_book",
           "pub_book_section",
           "pub_thesis",
-          "pub_patent",
-          Academia poster
+          "pub_patent"
         ]
