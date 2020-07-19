@@ -10,9 +10,6 @@ image:
   caption: 'Image credit: [**Yama Chang**](https://osf.io/dwvqh/)'
   focal_point: ""
   preview_only: false
-links:
-- name: 
-  url: 
 projects:
 - internal-project
 publication: "*Journal of Clinical Child and Adolescent Psychology Future Direction Forum (JCCAP)*, Washington, DC"
