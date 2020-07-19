@@ -67,5 +67,6 @@ subtitle = ""
  css_class = ""
 +++
 
-[filtering publications]({{< ref "/publication/_index.md" >}})
+[SEE ALL PUBLICATIONS]({{< ref "/publication/_index.md" >}})
 
++++
