@@ -26,7 +26,6 @@ date_format = "Jan 2006"
   date_start = "2020-06-22"
   date_end = ""
   description = """
-  Responsibilities include:
   
   * Data preprocessing and structural imaging analysis
   * Manage databases in RedCap for R01 longitudinal study
