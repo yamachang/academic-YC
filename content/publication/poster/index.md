@@ -18,7 +18,7 @@ projects:
 publication: "*Journal of Clinical Child and Adolescent Psychology Future Direction Forum (JCCAP)*"
 publication_short: ""
 publication_types:
-- "0"
+- "1"
 publishDate: "2020-06-12T00:00:00Z"
 slides: example
 summary: 
@@ -28,8 +28,8 @@ title: Childhood Gender Nonconformity and Identity Development Among a Diverse T
 url_poster: https://osf.io/dwvqh/
 ---
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+
+
+
