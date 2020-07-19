@@ -36,7 +36,7 @@ title: Childhood Gender Nonconformity and Identity Development Among a Diverse T
 
 url_poster: https://osf.io/dwvqh/
 
-url_video: '#'
+
 ---
 
 {{% alert note %}}
