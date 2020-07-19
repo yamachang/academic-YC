@@ -28,8 +28,8 @@ publication_short: *JCCAP*
 publication_types:
 - "4"
 publishDate: "2020-06-12T00:00:00Z"
-slides: example
-summary: Few studies have examined the association between childhood gender role nonconformity and markers of transgender identity development. We investigated the relationship between recalled childhood gender role nonconformity and identity development among a diverse sample of transgender and gender nonbinary (TGNB) individuals living in the United States.
+slides: 
+summary: 
 tags:
 - Source Themes
 title: Childhood Gender Nonconformity and Identity Development Among a Diverse Transgender Community Sample in the United States
