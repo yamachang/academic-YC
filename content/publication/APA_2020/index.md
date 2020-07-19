@@ -16,7 +16,7 @@ publishDate: "2020-07-06T00:00:00Z"
 slides: example
 summary:
 tags:
-- Poster
+- Academic Poster
 title: Mental Health Disparities Among LGBTQ Asian and Pacific Islander Youth - A Cross-Sectional Analysis
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 ---
