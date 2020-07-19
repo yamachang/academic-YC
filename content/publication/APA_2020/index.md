@@ -7,8 +7,9 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
-- admin
-date: "2019-04-07T00:00:00Z"
+- Tang, S.
+- Chang, Y.
+date: "2019-12-04T00:00:00Z"
 doi: ""
 featured: false
 image:
@@ -30,15 +31,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+title: Mental Health Disparities Among LGBTQ Asian and Pacific Islander Youth: A Cross-Sectional Analysis
+url_pdf: '#'
 ---
 
 {{% alert note %}}
