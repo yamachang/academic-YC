@@ -31,7 +31,7 @@ summary:
 tags:
 - Source Themes
 title: Childhood Gender Nonconformity and Identity Development Among a Diverse Transgender Community Sample in the United States
-url_code: '#'
+
 url_dataset: '#'
 url_pdf: '#'
 url_poster: https://osf.io/dwvqh/
