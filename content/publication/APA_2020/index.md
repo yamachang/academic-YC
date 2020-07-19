@@ -9,16 +9,13 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 authors:
 - Tnag, S.
 - Chang, Y.
-date: "2019-04-07T00:00:00Z"
+date: "2019-12-04T00:00:00Z"
 doi: ""
 featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
 projects:
 - internal-project
 publication: ""
