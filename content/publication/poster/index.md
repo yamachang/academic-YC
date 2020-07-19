@@ -17,8 +17,8 @@ image:
   focal_point: ""
   preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
+- name: 
+  url: 
 projects:
 - internal-project
 publication: "*Journal of Clinical Child and Adolescent Psychology Future Direction Forum (JCCAP)*"
