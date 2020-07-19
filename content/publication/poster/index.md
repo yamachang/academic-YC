@@ -7,7 +7,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
-- '**Chang, Y.**'
+- "**Chang, Y.**"
 - Bockting, W.O.
 date: "2020-06-12T00:00:00Z"
 doi: ""
@@ -21,7 +21,7 @@ links:
   url: http://example.org
 projects:
 - internal-project
-publication: ""
+publication: "*Journal of Clinical Child and Adolescent Psychology Future Direction Forum (JCCAP)*"
 publication_short: ""
 publication_types:
 - "1"
