@@ -24,7 +24,7 @@ projects:
 publication: ""
 publication_short: ""
 publication_types:
-- "4"
+- "1"
 publishDate: "2020-06-12T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
