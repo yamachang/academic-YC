@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Database Coordinator at UPMC
+role: Database Coordinator
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pittsburgh Medical Center
+- name: UPMC
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
