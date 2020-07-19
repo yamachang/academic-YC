@@ -7,7 +7,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
-- **Chang, Y.**
+- **admin**
 - Bockting, W.O.
 date: "2020-06-12T00:00:00Z"
 doi: ""
