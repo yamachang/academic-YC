@@ -18,6 +18,7 @@ summary:
 tags:
 - Academic Poster
 title: Mental Health Disparities Among LGBTQ Asian and Pacific Islander Youth - A Cross-Sectional Analysis
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: '#'
+url_poster: '#'
 ---
 
