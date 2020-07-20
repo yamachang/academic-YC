@@ -19,11 +19,10 @@ publication_types:
 - "1"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 tags:
 - Academic Poster
-title: Edit Identifying School-Based Intervention Targets for the Risk of Suicide Attempt Amongst Gender Questioning Youth
+title: Identifying School-Based Intervention Targets for the Risk of Suicide Attempt Amongst Gender Questioning Youth
 url_dataset: https://www.cdc.gov/healthyyouth/data/yrbs/data.htm
 url_pdf: '#'
 url_poster: '#'
