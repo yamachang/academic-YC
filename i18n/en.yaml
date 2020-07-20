@@ -173,7 +173,10 @@
   translation: Patent
   
 - id: pub_poster
-  translation: Academic poster
+  translation: Poster presentation
+  
+- id: pub_present
+  translation: Presentation
 
 # Project details
 
