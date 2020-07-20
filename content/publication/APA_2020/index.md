@@ -11,7 +11,7 @@ projects:
 publication: "*American Psychological Association Convention 2020*, Washington, DC."
 publication_short: ""
 publication_types:
-- "11"
+- "9"
 publishDate: "2020-07-06T00:00:00Z"
 slides: example
 summary:
