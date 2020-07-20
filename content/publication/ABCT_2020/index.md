@@ -16,7 +16,7 @@ publication: "*Association for Behavioral and Cognitive Therapies 54th Annual
 Convention*, Philadelphia, PA."
 publication_short: ""
 publication_types:
-- "1"
+- "9"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary:
