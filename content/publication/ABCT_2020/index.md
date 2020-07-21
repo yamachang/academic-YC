@@ -13,7 +13,7 @@ image:
 projects:
 - internal-project
 publication: "*Association for Behavioral and Cognitive Therapies 54th Annual
-Convention*, Philadelphia, PA."
+Convention*, Philadelphia, PA"
 publication_short: ""
 publication_types:
 - "9"
