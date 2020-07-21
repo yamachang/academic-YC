@@ -8,7 +8,7 @@ doi: ""
 featured: false
 projects:
 - internal-project
-publication: "*American Psychological Association Convention 2020*, Washington, DC."
+publication: "*American Psychological Association Convention 2020*, Washington, DC"
 publication_short: ""
 publication_types:
 - "9"
