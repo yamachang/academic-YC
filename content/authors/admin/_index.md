@@ -22,9 +22,8 @@ bio: My research examines how people make decisions in harming themselves, espec
 
 interests:
 - suicide prediction
-- sexual and gender minority stress
-- LGBTQ suicide risk
-- R Statistics
+- machine learning
+- LGBT health disparities
 
 education:
   courses:
