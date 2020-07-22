@@ -74,6 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Yama (she/her/hers) graduated from Teachers College, Columbia University in 2020, with an M.A. in Clinical Psychology and a concentration in research methods. Her past research experiences at Columbia University Medical Center and Harvard University have fostered her passion in examining the mechanisms underlying the suicidal ideation, decision-making process, and suicide behaviors, especially among sexual and gender minority youth.
+Yama (she/her/hers) graduated from Teachers College, Columbia University in 2020, with an M.A. in Clinical Psychology and a concentration in research methods. Her past research experiences at Columbia University Medical Center and Harvard University have fostered her passion in examining the mechanisms underlying the minority stress, decision-making process, and suicide, especially among sexual and gender minority youth.
 
-Her main research interests include (1) applying data-driven and computational modeling approaches to provide a precise prediction of suicide risk; (2) studying the suicide risk among sexual and gender minority youth. Currently, Yama works with Dr. Katalin Szanto to study the cognitive deficit and the decision-making process of late-life suicide. In the future, Yama plans to pursue a Ph.D. in clinical psychology.
+Her main research interests include (1) applying data-driven and computational modeling approaches to provide a precise prediction of suicide risk; (2) studying the mechanisms linking minority stress and suicide. Currently, Yama works with Dr. Katalin Szanto to study the cognitive deficit and the decision-making process of suicide. In the future, Yama plans to pursue a Ph.D. in clinical psychology.
