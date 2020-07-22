@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research examines how people make decisions in harming themselves, especially among vulnurable population (e.g., LGBTQ youth).
+bio: My research examines how people make decisions in harming themselves, especially among minority population (e.g., LGBTQ youth).
 
 interests:
 - suicide prediction
-- computational modeling
+- sexual and gender minority stress
 - LGBTQ suicide risk
 - R Statistics
 
