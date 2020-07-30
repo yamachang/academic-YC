@@ -32,22 +32,22 @@ subtitle = ""
   name = "Data Visualization"
 #  description = "60%"
 
-[[feature]]
-  icon = "book"
-  icon_pack = "fas"
-  name = "Qualitative Analysis"
+#[[feature]]
+#  icon = "book"
+#  icon_pack = "fas"
+#  name = "Qualitative Analysis"
 #  description = "100%"  
   
-[[feature]]
-  icon = "user-friends"
-  icon_pack = "fas"
-  name = "Clinical Research"
+#[[feature]]
+#  icon = "user-friends"
+#  icon_pack = "fas"
+#  name = "Clinical Research"
 #  description = "100%"
   
-[[feature]]
-  icon = "comments"
-  icon_pack = "fas"
-  name = "Clinical Assessment"
+#[[feature]]
+#  icon = "comments"
+#  icon_pack = "fas"
+#  name = "Clinical Assessment"
 #  description = "100%"  
 
 # Uncomment to use emoji icons.
