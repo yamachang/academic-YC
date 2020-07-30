@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   description = """
   
   * Data preprocessing and structural imaging analysis
-  * Manage longitidunal research data in REDCap for NIH R01 study
+  * Manage longitidunal research data on REDCap for NIH R01 study
   * Data analysis, data visualization and presentation, as well as manuscript preparation
   """
   
