@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-Yama (she/her/hers) graduated from Teachers College, Columbia University in 2020, with an M.A. in Clinical Psychology and a concentration in research methods. Her past research experiences at Columbia and Harvard University have fostered her interest in the psychological mechanisms underlying multiple forms of stigma and the dynamic trajectories of suicide, especially among sexual and gender minority youth.
+I currently work with Dr. Katalin Szanto to study the cognitive deficit and the decision-making process of suicide at Longitudinal Research Program in Late-Life Suicide at the University of Pittsburgh Medical Center. I received an M.A. in Clinical Psychology from Teachers College, Columbia University and a B.A. in Economics from National Taiwan University. My research interests include (1) applying data-driven and computational modeling approaches (e.g., machine learning) to provide a better prediction of suicide ideation and behaviors; (2) examining the association between multi-level stigma and adverse mental health outcomes among minority populations. In the future, I plan to pursue a Ph.D. in Clinical Psychology.
 
-Her main research interests include (1) applying data-driven and computational modeling approaches (e.g., machine learning) to provide a precise prediction of suicide behaviors; (2) examining the association between multi-level stigma and adverse mental health outcomes among minority populations. Currently, Yama works with Dr. Katalin Szanto at the University of Pittsburgh Medical Center to study the cognitive deficit and the decision-making process of suicide. In the future, Yama plans to pursue a Ph.D. in clinical psychology.
+Pronouns: She/Her/Hers
