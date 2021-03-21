@@ -22,6 +22,5 @@ summary:
 tags:
 - Academic Poster
 title: Childhood Gender Nonconformity and Identity Development Among a Diverse Transgender Community Sample in the United States
-url_pdf: https://osf.io/dwvqh/
-url_poster: '#'
+url_poster: 'https://osf.io/dwvqh/'
 ---
