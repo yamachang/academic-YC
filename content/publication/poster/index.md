@@ -4,7 +4,7 @@ authors:
 - Chang, Y.
 - Bockting, W.O.
 date: "2020-06-12T00:00:00Z"
-doi: "https://osf.io/dwvqh/![image](https://user-images.githubusercontent.com/54869999/111923878-cc675f00-8a77-11eb-9edb-862f0571078b.png)"
+doi: ""
 featured: false
 image:
   caption: 'Image credit: [**Yama Chang**](https://osf.io/dwvqh/)'
@@ -12,7 +12,8 @@ image:
   preview_only: false
 projects:
 - internal-project
-publication: "*Journal of Clinical Child and Adolescent Psychology Future Direction Forum (JCCAP)*, Washington, DC"
+publication: "*Journal of Clinical Child and Adolescent Psychology Future Direction Forum (JCCAP)*, Washington, DC https://osf.io/dwvqh/![image](https://user-images.githubusercontent.com/54869999/111923901-f882e000-8a77-11eb-8345-2bcf33bc41b0.png)
+"
 publication_short: ""
 publication_types:
 - "9"
