@@ -12,8 +12,8 @@ image:
   preview_only: false
 projects:
 - internal-project
-publication: "*Journal of Clinical Child and Adolescent Psychology Future Direction Forum (JCCAP)*, Washington, DC"
-publication_short: "[https://osf.io/dwvqh/](https://osf.io/dwvqh/)"
+publication: "*Journal of Clinical Child and Adolescent Psychology Future Direction Forum (JCCAP)*, Washington, DC [https://osf.io/dwvqh/](https://osf.io/dwvqh/)"
+publication_short: ""
 publication_types:
 - "9"
 publishDate: "2020-06-12T00:00:00Z"
