@@ -18,7 +18,6 @@ summary:
 tags:
 - Academic Poster
 title: Mental Health Disparities Among LGBTQ Asian and Pacific Islander Youth - A Cross-Sectional Analysis
-url_pdf: '#'
-url_poster: '#'
+url_poster: 'https://www.researchgate.net/publication/350214318_Mental_health_disparities_among_LGBTQ_Asian_and_Pacific_islander_youth_A_cross_sectional_analysis?_sg=4Hkvkus-Fu1Kb4ZhTEwgKnio71vRoO0VIKSZQWtXuEoGPkLiBZkrw4B7iWNQvC_-YbdyPau6pJLYsk-KN5088cENEHB-fEhxKCgzFtUo.1uRXC0jEjeSURKQphs_yPmA_ObuNJ5EkI_gtefYv0YSTOG7kfbzLglmHWaVm7iwQDvqTqGiTe0zfpkfh_nj2Cg'
 ---
 
