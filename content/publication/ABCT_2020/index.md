@@ -13,7 +13,7 @@ image:
 projects:
 - internal-project
 publication: "*Association for Behavioral and Cognitive Therapies 54th Annual
-Convention*, Philadelphia, PA"
+Convention*, Philadelphia, PA [https://osf.io/pbmnt/](https://osf.io/pbmnt/"
 publication_short: ""
 publication_types:
 - "9"
@@ -25,7 +25,7 @@ tags:
 title: Identifying School-Based Intervention Targets for the Risk of Suicide Attempt Amongst Gender Questioning Youth
 url_dataset: https://www.cdc.gov/healthyyouth/data/yrbs/data.htm
 url_pdf: '#'
-url_poster: '#'
+url_poster: 'https://osf.io/pbmnt/'
 ---
 
 
