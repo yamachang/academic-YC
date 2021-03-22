@@ -9,8 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Yama Chang, M.A."
-subtitle = "Database Coordinator, UPMC"
-subtitle = "M.A. in Clinical Psychology, Columbia University"
+subtitle = "Database Coordinator, University of Pittsburgh Medical Center"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -41,7 +40,7 @@ subtitle = "M.A. in Clinical Psychology, Columbia University"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["300px", "120px", "300px", "120px"]
+  padding = ["280px", "120px", "300px", "280px"]
 
 [advanced]
  # Custom CSS. 
