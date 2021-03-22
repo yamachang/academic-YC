@@ -40,7 +40,7 @@ subtitle = "Database Coordinator, University of Pittsburgh Medical Center"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["280px", "0px", "300px", "280px"]
+  padding = ["280px", "0px", "280px", "120px"]
 
 [advanced]
  # Custom CSS. 
