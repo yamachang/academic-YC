@@ -50,5 +50,5 @@ subtitle = "M.A. in Clinical Psychology, Columbia University"
  # CSS class.
  css_class = ""
 +++
-
+**M.A. in Clinical Psychology, Columbia University**
 
