@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Yama Chang, M.A."
-subtitle = "Database Coordinator, University of Pittsburgh Medical Center"
+# subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -49,5 +49,7 @@ subtitle = "Database Coordinator, University of Pittsburgh Medical Center"
  # CSS class.
  css_class = ""
 +++
+
+**Database Coordinator, University of Pittsburgh Medical Center**
 **M.A. in Clinical Psychology, Columbia University**
 
