@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Yama Chang, M.A."
-title = "Database Coordinator, UPMC"
+subtitle = "Database Coordinator, UPMC"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -40,7 +40,7 @@ title = "Database Coordinator, UPMC"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["300px", "0", "300px", "0"]
+  padding = ["300px", "120px", "300px", "120px"]
 
 [advanced]
  # Custom CSS. 
