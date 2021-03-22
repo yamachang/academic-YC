@@ -10,6 +10,7 @@ weight = 15  # Order that this section will appear.
 
 title = "Yama Chang, M.A."
 subtitle = "Database Coordinator, UPMC"
+subtitle = "M.A. in Clinical Psychology, Columbia University"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
