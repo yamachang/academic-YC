@@ -51,5 +51,6 @@ title = "Yama Chang, M.A."
 +++
 
 **Database Coordinator, University of Pittsburgh Medical Center**
+
 **M.A. in Clinical Psychology, Columbia University**
 
