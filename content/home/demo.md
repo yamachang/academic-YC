@@ -32,7 +32,7 @@ subtitle = "Database Coordinator, University of Pittsburgh Medical Center"
   image = "image.jpg"  # Name of image in `static/img/`.
   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
   image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_position = "left"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
@@ -40,7 +40,7 @@ subtitle = "Database Coordinator, University of Pittsburgh Medical Center"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["280px", "120px", "300px", "280px"]
+  padding = ["280px", "0px", "300px", "280px"]
 
 [advanced]
  # Custom CSS. 
