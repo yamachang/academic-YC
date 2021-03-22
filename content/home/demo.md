@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 title = "Yama Chang, M.A."
-heading = "Database Coordinator, UPMC"
+title = "Database Coordinator, UPMC"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -31,7 +31,7 @@ heading = "Database Coordinator, UPMC"
   # Background image.
   image = "image.jpg"  # Name of image in `static/img/`.
   image_darken = 0.4  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
   image_position = "center"  # Options include `left`, `center` (default), or `right`.
   image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
@@ -40,7 +40,7 @@ heading = "Database Coordinator, UPMC"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["250px", "0", "250px", "0"]
+  padding = ["300px", "0", "300px", "0"]
 
 [advanced]
  # Custom CSS. 
