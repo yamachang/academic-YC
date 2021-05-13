@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Database Coordinator
+role: Researcher – Clinical Data
 
 # Organizations/Affiliations
 organizations:
