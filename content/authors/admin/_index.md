@@ -15,7 +15,7 @@ role: Researcher – Clinical Data
 # Organizations/Affiliations
 organizations:
 - name: University of Pittsburgh
-  url: ""
+  url: "http://gsuicide.pitt.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research examines how people make decisions in harming themselves, especially among minority population (e.g., LGBTQ youth).
@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I currently work with [Dr. Katalin Szanto](https://scholar.google.com/citations?user=nI_gSnIAAAAJ&hl=en) to study the cognitive deficit and the decision-making process of suicide at [Longitudinal Research Program in Late-Life Suicide](http://gsuicide.pitt.edu/) at the University of Pittsburgh Medical Center. I received an M.A. in Clinical Psychology from Teachers College, Columbia University and a B.A. in Economics from National Taiwan University. My past research experience at Columbia, Harvard, and University of Pittsburgh have fostered my interests in (1) examining biopsychosocial mechanisms underlying multilevel stigma and adverse mental health outcomes among sexual and gender minority populations; (2) applying data-driven and computational modeling approaches (e.g., machine learning) to provide a better classification and prediction of psychopathology (e.g., suicidal thoughts and behaviors); (3) developing non-traditional, easy-to-access, and scalable interventions to improve the accessibility of mental health for the stigmatized and marginalized population. My goal is to become a clinical scientist.
+I currently work with [Dr. Katalin Szanto](https://scholar.google.com/citations?user=nI_gSnIAAAAJ&hl=en) to study the cognitive deficit and the decision-making process of suicide at Longitudinal Research Program in Late-Life Suicide at the University of Pittsburgh Medical Center. I received an M.A. in Clinical Psychology from Teachers College, Columbia University and a B.A. in Economics from National Taiwan University. My past research experience at Columbia, Harvard, and University of Pittsburgh have fostered my interests in (1) examining biopsychosocial mechanisms underlying multilevel stigma and adverse mental health outcomes among sexual and gender minority populations; (2) applying data-driven and computational modeling approaches (e.g., machine learning) to provide a better classification and prediction of psychopathology (e.g., suicidal thoughts and behaviors); (3) developing non-traditional, easy-to-access, and scalable interventions to improve the accessibility of mental health for the stigmatized and marginalized population. My goal is to become a clinical scientist.
 
 Pronouns: She/Her/Hers
 
