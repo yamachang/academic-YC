@@ -22,9 +22,9 @@ bio: My research examines how people make decisions in harming themselves, espec
 
 interests:
 - multilevel stigma
-- machine learning
 - scalable interventions
-- SGM health disparities
+- suicide prediction
+- machine learning
 
 
 education:
