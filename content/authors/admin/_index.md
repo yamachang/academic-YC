@@ -21,10 +21,13 @@ organizations:
 bio: My research examines how people make decisions in harming themselves, especially among minority population (e.g., LGBTQ youth).
 
 interests:
-- multilevel stigma
+- Minority mental health
+  - multilevel stigma
+  - SGM health disparities
 - scalable interventions
-- suicide prediction
-- machine learning
+- computational modeling
+  - machine learning
+  - classificaiton and prediction in suicide
 
 
 education:
