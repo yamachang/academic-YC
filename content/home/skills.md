@@ -27,7 +27,7 @@ subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for researc
 #  description = "100%"  
   
 [[feature]]
-  icon = "fa-chart-area"
+  icon = "chart-area"
   icon_pack = "fas"
   name = "Data Visualization"
 #  description = "60%"
