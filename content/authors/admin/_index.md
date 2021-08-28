@@ -14,7 +14,7 @@ role: Researcher – Clinical Data
 
 # Organizations/Affiliations
 organizations:
-- name: UPMC
+- name: University of Pittsburgh
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
