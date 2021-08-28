@@ -76,4 +76,4 @@ I currently work with [Dr. Katalin Szanto](https://scholar.google.com/citations?
 
 Pronouns: She/Her/Hers
 
-{{< icon name="cloud-download-alt" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}} View my CV{{< /staticref >}}
+{{< icon name="cloud-download-alt" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}<br/>View my CV{{< /staticref >}}
