@@ -21,10 +21,10 @@ organizations:
 bio: My research examines how people make decisions in harming themselves, especially among minority population (e.g., LGBTQ youth).
 
 interests:
-- Minority mental health, SGM health disparities
-- Easy-to-access and scalable interventions
-- computational modeling to improve classification and prediction
-
+- minority mental health
+- scalable interventions
+- computational modeling
+- suicide
 
 education:
   courses:
