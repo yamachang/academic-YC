@@ -76,4 +76,4 @@ I currently work with [Dr. Katalin Szanto](https://scholar.google.com/citations?
 
 Pronouns: She/Her/Hers
 
-<i class="fas fa-download" href="https://yamaychang.me/files/cv.pdf">Download my CV.</i>
+{{< icon name="download" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}Download CV{{< /staticref >}}.
