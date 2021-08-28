@@ -75,3 +75,5 @@ user_groups:
 I currently work with [Dr. Katalin Szanto](https://scholar.google.com/citations?user=nI_gSnIAAAAJ&hl=en) to study the cognitive deficit and the decision-making process of suicide at [Longitudinal Research Program in Late-Life Suicide](http://gsuicide.pitt.edu/) at the University of Pittsburgh Medical Center. I received an M.A. in Clinical Psychology from Teachers College, Columbia University and a B.A. in Economics from National Taiwan University. My past research experience at Columbia, Harvard, and University of Pittsburgh have fostered my interests in (1) applying data-driven and computational modeling approaches (e.g., machine learning) to provide a better classification of psychopathology and better prediction of suicide ideation and behaviors; (2) understand biopsychosocial mechanisms underlying structural stigma and adverse mental health outcomes among sexual and gender minority populations. In the future, I plan to pursue a Ph.D. in Clinical Psychology.
 
 Pronouns: She/Her/Hers
+
+<i class="fas fa-download">"Download my CV."</i>
