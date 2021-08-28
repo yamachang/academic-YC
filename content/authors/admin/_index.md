@@ -22,12 +22,12 @@ bio: My research examines how people make decisions in harming themselves, espec
 
 interests:
 - Minority mental health
-  institution: multilevel stigma
-  institution:  health disparities
+  interest: multilevel stigma
+  interest:  health disparities
 - scalable interventions
 - computational modeling
-  institution: machine learning
-  institution: classificaiton and prediction in suicide
+  interest: machine learning
+  interest: classificaiton and prediction in suicide
 
 
 education:
