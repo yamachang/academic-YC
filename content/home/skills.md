@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Skills"
-subtitle = ""
+subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for research projects"
 
 # Showcase personal skills or business features.
 # 
@@ -17,13 +17,13 @@ subtitle = ""
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "R"
+  name = "Statistical Programming"
 #  description = "100%"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Quantitative analysis"
+  name = "Quantitative Analysis"
 #  description = "100%"  
   
 [[feature]]
