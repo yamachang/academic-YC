@@ -75,4 +75,10 @@ I currently work with [Dr. Katalin Szanto](https://scholar.google.com/citations?
 
 Pronouns: She/Her/Hers
 
-{{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}} {{<span style="color:red">{{ letter }}</span>}}&nbsp; View my CV{{< /staticref >}}
+{{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}&nbsp; View my CV{{< /staticref >}}
+
+[cta]
+  url = "https://yamaychang.me/files/cv.pdf"
+  label = "View my CV"
+  icon_pack = "fas"
+  icon = "cloud-download-alt"
