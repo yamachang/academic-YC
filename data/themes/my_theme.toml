@@ -5,14 +5,13 @@ name = "my_theme"
 light = true
 
 # Primary
-primary = "#264143"
-primary_text = "#264143"
+primary = "#70be51"
 
 # Menu
-menu_primary = "#f2ebe9"
-menu_text = "#de5499"
-menu_text_active = "#264143"
-menu_title = "#de5499"
+menu_primary = "#397754"
+menu_text = "#ffffff"
+menu_text_active = "#f0a3bc"
+menu_title = "#f0a3bc"
 
 # Home sections
 home_section_even = "rgb(242,235,233)"
