@@ -77,8 +77,4 @@ Pronouns: She/Her/Hers
 
 {{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}&nbsp; View my CV{{< /staticref >}}
 
-[cta]
-  url = "https://yamaychang.me/files/cv.pdf"
-  label = "View my CV"
-  icon_pack = "fas"
-  icon = "cloud-download-alt"
+
