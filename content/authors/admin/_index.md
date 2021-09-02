@@ -46,7 +46,10 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: researchgate
+  - icon: researchgate
+  icon_pack: ai
+  link: osf.io/v9r5z
+- icon: osf
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yama-Chang
 - icon: twitter
