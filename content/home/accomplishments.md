@@ -71,3 +71,5 @@ date_format = "Jan 2006"
 
 
 +++
+
+Selected Poster in Sexual and Gender Minority SIG Poster Session, 2021 Association for Behavioral and Cognitive Therapies 55th Annual Convention
