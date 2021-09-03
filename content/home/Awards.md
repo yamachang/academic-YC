@@ -10,7 +10,7 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-
+<br/>
 <p>2021&nbsp;&nbsp;&nbsp;&nbsp;<b>Selected Poster in Sexual and Gender Minority SIG Poster Session</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Association for Behavioral and Cognitive Therapies 55th Annual Convention</p>
 
