@@ -26,8 +26,12 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
+    name = "Sexual and Gender Minority"
+    tag = "LGBTQ+"
+    
+  [[content.filter_button]]
+    name = "Suicide"
+    tag = "Suicide"
   
   [[content.filter_button]]
     name = "Other"
@@ -75,3 +79,4 @@ subtitle = ""
  css_class = ""
 +++
 
+I am interested in applying data-driven and computational modeling approaches to investigate biopsychosocial mechanisms underlying multilevel stigma (e.g., minority stress, structural stigma) and psychopathology (e.g., suicidal ideation and behaviors); and applying accessible and cost-effective intervention among marginalized and stigmatized individuals, particularly sexual and gender minority.
