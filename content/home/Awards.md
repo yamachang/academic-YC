@@ -8,7 +8,7 @@ subtitle:
 weight: 80  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 ---
 
 2021 Selected Poster in Sexual and Gender Minority SIG Poster Session, 2021 Association for Behavioral and Cognitive Therapies 55th Annual Convention
