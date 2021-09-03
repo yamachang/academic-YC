@@ -27,16 +27,17 @@
   name = "Skills"
   url = "#skills"
   weight = 50
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
   
 [[main]]
   name = "Awards"
   url = "#Awards"
-  weight = 80
+  weight = 55
+  
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60
+
   
 
   
