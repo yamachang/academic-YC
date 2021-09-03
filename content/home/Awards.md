@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Honor and Awards
+title: Honor & Awards
 subtitle:
 weight: 80  # section position on page
 design:
@@ -11,7 +11,7 @@ design:
   columns: '2'
 ---
 
-2021 Selected Poster in Sexual and Gender Minority SIG Poster Session, 2021 Association for Behavioral and Cognitive Therapies 55th Annual Convention
+2021 <p><b>Selected Poster in Sexual and Gender Minority SIG Poster Session</p></b>, 2021 Association for Behavioral and Cognitive Therapies 55th Annual Convention
 
 2021 Selected Participant in Diversifying Clinical Psychology Conference, Council of University Directors of Clinical Psychology (CUDCP)
 
