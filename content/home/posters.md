@@ -1,20 +1,16 @@
 ---
-# An instance of the Blank widget with a Gallery page element.
-# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
 widget: blank
-
-# This file represents a page section.
 headless: true
 
-# Order that this section appears on the page.
-weight: 66
-
-title: "Poster Poresentations"
+# ... Put Your Section Options Here (title etc.) ...
+title: Honor & Awards
 subtitle:
-
+weight: 55  # section position on page
 design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
+<br/>
 
 {{< gallery album="themes" >}}
 
