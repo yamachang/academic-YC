@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
 title = "Current Projects"
-subtitle = "I am interested in applying data-driven and computational modeling approaches to investigate biopsychosocial mechanisms underlying multilevel stigma (e.g., minority stress, structural stigma) and psychopathology (e.g., suicidal ideation and behaviors); and applying accessible and cost-effective intervention among marginalized and stigmatized individuals, particularly sexual and gender minority."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -78,3 +78,5 @@ subtitle = "I am interested in applying data-driven and computational modeling a
  # CSS class.
  css_class = ""
 +++
+
+<p>I am interested in applying data-driven and computational modeling approaches to investigate biopsychosocial mechanisms underlying multilevel stigma (e.g., minority stress, structural stigma) and psychopathology (e.g., suicidal ideation and behaviors); and applying accessible and cost-effective intervention among marginalized and stigmatized individuals, particularly sexual and gender minority.</p>
