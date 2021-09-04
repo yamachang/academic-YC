@@ -30,10 +30,10 @@ publication: In *Association for Behavioral and Cognitive Therapies 54th Annual
 Convention, Philadelphia, PA* [https://osf.io/pbmnt/](https://osf.io/pbmnt/)
 publication_short: In *ABCT*
 
-# abstract: 
+abstract: 
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [Academic Poster]
 
