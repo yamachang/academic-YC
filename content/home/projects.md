@@ -33,9 +33,9 @@ subtitle = ""
     name = "Suicide"
     tag = "Suicide"
   
-  #[[content.filter_button]]
-  #  name = "Other"
-  #  tag = "Demo"
+  [[content.filter_button]]
+    name = "Computational Modeling"
+    tag = "Computational Modeling"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
