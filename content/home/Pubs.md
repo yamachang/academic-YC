@@ -5,18 +5,18 @@ headless: true
 # ... Put Your Section Options Here (title etc.) ...
 title: Publications
 subtitle:
-weight: 28  # section position on page
+weight: 23  # section position on page
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
 <br/>
 
-<h4>Manuscripts Under Review</h4>
+<h3>Manuscripts Under Review</h3>
 
 1.	Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (Under Review). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace. *Socius*.
 <br/>
-<h4>Selected Manuscripts in Preparation</h4>
+<h3>Selected Manuscripts in Preparation</h3>
 
 1.	**Chang, Y.**, Buerke, M., Galfalvy, H., & Szanto, K. (In Preparation). The Relationship of Childhood Trauma Experiences with the Age of Onset of First Suicidal Behavior in Late-Life Depression
 
