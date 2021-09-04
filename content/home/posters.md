@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Honor & Awards
+title: Poster Presentations
 subtitle:
 weight: 55  # section position on page
 design:
