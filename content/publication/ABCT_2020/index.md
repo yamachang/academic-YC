@@ -9,9 +9,9 @@ authors:
 - Chen, S.
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2020-11-07T00:00:00Z"
 doi: ""
