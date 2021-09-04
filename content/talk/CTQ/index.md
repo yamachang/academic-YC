@@ -8,13 +8,13 @@ event: Enrichment Meeting
 event_url: https://osf.io/nqc8e/
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Presenter: Yama Chang'
   focal_point: Right
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: osf
+  icon_pack: ai
+  name: OSF
+  url: https://osf.io/jgevh/
 location: Pittsburgh, PA
 math: true
 publishDate: "2017-01-01T00:00:00Z"
@@ -27,3 +27,5 @@ url_pdf: ""
 url_slides: https://osf.io/nqc8e/
 url_video: ""
 ---
+
+Please see my full presentation [**slides**](https://osf.io/nqc8e/) here.
