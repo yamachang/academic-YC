@@ -12,7 +12,7 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: ""
+date: "2021-07-17T00:00:00Z"
 date_end: ""
 all_day: false
 
@@ -29,14 +29,14 @@ image:
   caption: ''
   focal_point: Right
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://osf.io/nqc8e/
 url_video: ""
 
 # Markdown Slides (optional).
