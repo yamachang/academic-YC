@@ -11,7 +11,7 @@ image:
   focal_point: ""
   preview_only: false
 projects:
-- internal-project
+- Sexual and Gender Minority
 publication: "*Association for Behavioral and Cognitive Therapies 54th Annual
 Convention*, Philadelphia, PA [https://osf.io/pbmnt/](https://osf.io/pbmnt/)"
 publication_short: ""
