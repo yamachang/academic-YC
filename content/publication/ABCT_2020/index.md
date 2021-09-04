@@ -8,11 +8,6 @@ authors:
 - Chang, Y. 
 - Chen, S.
 
-# Author notes (optional)
-author_notes:
-- ""
-- ""
-
 date: "2020-11-07T00:00:00Z"
 doi: ""
 
@@ -23,16 +18,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["9"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Association for Behavioral and Cognitive Therapies 54th Annual Convention*, Philadelphia, PA. [https://osf.io/pbmnt/](https://osf.io/pbmnt/)
 publication_short: 
-
-abstract:
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [Academic Poster]
 
