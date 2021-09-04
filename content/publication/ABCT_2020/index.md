@@ -1,5 +1,4 @@
 ---
-abstract: 
 authors:
 - Chang, Y.
 - Chen, S.
