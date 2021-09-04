@@ -27,7 +27,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Association for Behavioral and Cognitive Therapies 54th Annual Convention*, Philadelphia, PA. [https://osf.io/pbmnt/](https://osf.io/pbmnt/)
-publication_short: In *ABCT*
+publication_short: 
 
 abstract:
 
