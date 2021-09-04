@@ -2,7 +2,7 @@
 abstract: 
 all_day: false
 authors: []
-date: "2021-08-17T15:00:00Z"
+date: "2021-08-17"
 # date_end: "2030-06-01T15:00:00Z"
 event: Enrichment Meeting
 event_url: https://osf.io/nqc8e/
@@ -20,7 +20,7 @@ math: true
 publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 summary: Invited talk presented at the Enrichment Meeting at Longitudinal Research Program in Late-Life Suicide at UPMC Psychiatry.
-tags: []
+tags: [Suicide]
 title: The Relationship of Childhood Trauma Experiences with the Age of Onset of First Suicidal Behavior in Late-Life Depression
 url_code: ""
 url_pdf: ""
