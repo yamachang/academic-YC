@@ -4,11 +4,11 @@ external_link: ""
 image:
   caption: Visualization using [raincloudplots package](https://github.com/RainCloudPlots/RainCloudPlots)
   focal_point: Smart
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/yama_yawenchang
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/yama_yawenchang
 slides: 
 summary: 
 tags:
