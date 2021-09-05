@@ -12,7 +12,7 @@ links:
 slides: 
 summary: 
 tags:
-- 'LGBTQ+'
+- LGBTQ
 title: Transgender and minority stress
 url_code: ""
 url_pdf: ""
