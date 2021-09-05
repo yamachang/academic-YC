@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: Minority Mental Health
-    tag: 'LGBTQ+'
+    tag: 'LGBTQ'
   - name: Suicide
     tag: 'Suicide'
   - name: Computational Modeling
