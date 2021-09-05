@@ -21,7 +21,7 @@ publishDate: "2017-01-01T00:00:00Z"
 slides: ""
 summary: Invited talk presented at the Enrichment Meeting at Longitudinal Research Program in Late-Life Suicide at UPMC Psychiatry.
 tags: [Suicide]
-title: Morphometric alterations in late-life suicide and relationships with cognitive decline
+title: Morphometric Alterations in Late-Life Suicide and Relationships with Cognitive Decline
 url_code: ""
 url_pdf: ""
 url_slides: https://osf.io/ng4wx/
