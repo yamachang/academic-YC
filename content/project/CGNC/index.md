@@ -2,8 +2,7 @@
 title: Transgender and minority stress
 summary: 
 tags:
-- LGBTQ+
-- Minority mental health
+- Sexual and Gender Minority
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -30,5 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
+</br>
 The present study is to understand the role of childhood gender nonconformity in developmental milestones of TGNB identity development among a gender and racial diverse sample. Childhood gender role nonconformity appears an important variable affecting TGNB identity development. Our findings indicate that TGNB individuals who were nonconforming in their childhood gender expression reached identity development milestones of awareness and disclosure at an earlier age, and perhaps because of that, reported lower levels of felt stigma and depression. I have finalized the manuscript and is currently in final round of edits before submitting to *Sex Roles*.
