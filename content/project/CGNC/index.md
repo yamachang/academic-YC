@@ -1,6 +1,6 @@
 ---
-title: Identity Development Trajectories and Childhood Gender Role Nonconformity Among a Gender and Racial Diverse Sample in the United States
-summary: To understand the role of childhood gender nonconformity in developmental milestones of TGNB identity development.
+title: Transgender and minority stress
+summary: 
 tags:
 - LGBTQ+
 - Minority mental health
