@@ -14,20 +14,20 @@
   weight = 20
   
 [[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 30
+  
+[[main]]
   name = "Publications"
   url = "#Pubs"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Presentations"
   url = "#Posters"
-  weight = 40
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
   weight = 50
-  
+
 [[main]]
   name = "Awards"
   url = "#Awards"
