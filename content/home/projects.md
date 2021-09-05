@@ -28,11 +28,11 @@ content:
   - name: All
     tag: '*'
   - name: Minority Mental Health
-    tag: 'LGBTQ'
+    tag: LGBTQ
   - name: Suicide
-    tag: 'Suicide'
+    tag: Suicide
   - name: Computational Modeling
-    tag: 'Computational Modeling'
+    tag: Computational Modeling
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
