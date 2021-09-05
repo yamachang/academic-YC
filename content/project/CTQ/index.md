@@ -13,7 +13,7 @@ slides:
 summary: 
 tags:
 - Suicide
-title: Childhood Trauma Experience and Suicide
+title: Childhood Trauma and Onset of Suicidal Attempt
 url_code: ""
 url_pdf: ""
 url_slides: ""
