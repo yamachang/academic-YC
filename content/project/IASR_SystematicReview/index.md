@@ -14,7 +14,7 @@ summary:
 tags:
 - LGBTQ
 - Suicide
-title: Health Inequalities and Suicide Risk: A Systematic Review
+title: Health Inequalities and Suicide Risk - A Systematic Review
 url_code: ""
 url_pdf: ""
 url_slides: ""
