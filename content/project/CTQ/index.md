@@ -20,4 +20,6 @@ url_slides: ""
 url_video: ""
 ---
 
-It is well established that stressful early life experiences can adversely impact long-term psychopathology, including depression and suicidal behaviors, in adolescence and adulthood. In addition, past studies have suggested that childhood trauma experiences are predictors of the onset of suicidal behaviors, however, none of these studies included older adults. The present study examined the relationship between childhood traumatic experiences and late-life suicide, and whether or not a difference exists between early-onset and late-onset attempters. ![image](https://user-images.githubusercontent.com/54869999/132115933-4bf54714-edf9-4527-8ba2-37df8394b418.png)
+Collaborators: Morgan Buerke (University of Southern Mississippi), Hanga Galfalvy, Ph.D. (Columbia University), Katalin Szanto, M.D. (University of Pittsburgh)
+<br/>
+It is well established that stressful early life experiences can adversely impact long-term psychopathology, including depression and suicidal behaviors, in adolescence and adulthood. In addition, past studies have suggested that childhood trauma experiences are predictors of the onset of suicidal behaviors, however, none of these studies included older adults. The present study examined the relationship between childhood traumatic experiences and late-life suicide, and whether or not a difference exists between early-onset and late-onset attempters. 
