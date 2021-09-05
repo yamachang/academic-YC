@@ -2,8 +2,8 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Visualization using [raincloudplots package](https://github.com/RainCloudPlots/RainCloudPlots)
-  focal_point: Smart
+  caption: ""
+  focal_point: ""
 links:
 - icon: twitter
   icon_pack: fab
