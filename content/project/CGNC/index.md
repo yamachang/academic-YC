@@ -13,7 +13,7 @@ slides:
 summary: 
 tags:
 - LGBTQ
-title: Transgender and minority stress
+title: Transgender Identity Development and Minority Stress
 url_code: ""
 url_pdf: ""
 url_slides: ""
