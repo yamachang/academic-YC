@@ -5,10 +5,10 @@ image:
   caption: Visualization using [raincloudplots package](https://github.com/RainCloudPlots/RainCloudPlots)
   focal_point: Smart
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/yama_yawenchang
+- icon: osf
+  icon_pack: ai
+  name: OSF
+  url: https://osf.io/hp4cg/
 slides: 
 summary: 
 tags:
