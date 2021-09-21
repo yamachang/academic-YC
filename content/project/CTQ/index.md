@@ -24,4 +24,4 @@ url_video: ""
 Collaborators: Morgan Buerke (University of Southern Mississippi), Hanga Galfalvy, Ph.D. (Columbia University), Katalin Szanto, M.D. (University of Pittsburgh)</i>
 <br/>
 <p>It is well established that stressful early life experiences can adversely impact long-term psychopathology, including depression and suicidal behaviors, in adolescence and adulthood. In addition, past studies have suggested that childhood trauma experiences are predictors of the onset of suicidal behaviors, however, none of these studies included older adults. The present study examined the relationship between childhood traumatic experiences and late-life suicide, and whether or not a difference exists between early-onset and late-onset attempters.</p>
-<p>This project is in progress.</p>
+<p>I am currently finalizing the manuscript for journal submission.</p>
