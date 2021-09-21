@@ -31,8 +31,8 @@ content:
     tag: LGBTQ
   - name: Suicide
     tag: Suicide
-  - name: Computational Modeling
-    tag: Computational Modeling
+  - name: Quantitative Modeling
+    tag: Quantitative Modeling
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

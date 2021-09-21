@@ -13,7 +13,7 @@ slides:
 summary: 
 tags:
 - Suicide
-- Computational Modeling
+- Quantitative Modeling
 title: Suicidal Ideation Trajectories - A Latent Profile Analysis of A Prospective Study
 url_code: ""
 url_pdf: ""
