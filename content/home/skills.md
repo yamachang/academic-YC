@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for research projects"
+subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for research projects and reproducible script"
 
 # Showcase personal skills or business features.
 # 
