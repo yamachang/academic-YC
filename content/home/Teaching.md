@@ -11,7 +11,6 @@ design:
   columns: '2'
 ---
 <br/>
-<p><h1>Data Science in R</h1><br/>
-University of Pittsburgh Medical Center | Fall 2021<br/>
-</p>
+<p><h3><b>Data Science in R</h3></p>
+<p><University of Pittsburgh Medical Center | Fall 2021</b></p>
 
