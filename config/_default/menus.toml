@@ -12,12 +12,12 @@
   name = "Research Projects"
   url = "#projects"
   weight = 20
-  
+
 [[main]]
   name = "Publications"
   url = "#Pubs"
   weight = 30
-  
+
 [[main]]
   name = "Talks"
   url = "#talks"
@@ -32,15 +32,20 @@
   name = "Awards"
   url = "#Awards"
   weight = 55
-  
+
+[[main]]
+  name = "Open Resources"
+  url = "#Open Resources"
+  weight = 58
+
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
 
-  
 
-  
+
+
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #[[main]]
