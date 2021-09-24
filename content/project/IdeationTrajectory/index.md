@@ -22,7 +22,7 @@ url_video: ""
 ---
 
 <i>Role: Co-Investigator<br/>
-Collaborator: Hanga Galfalvy, Ph.D. (Columbia University), Morgan Buerke (University of Southern Mississippi), Anna Szücs, M.D. (University of Geneva), Katalin Szanto, M.D. (University of Pittsburgh)</i>
+Collaborator: Hanga Galfalvy, Ph.D. (Lead author; Columbia University), Morgan Buerke (University of Southern Mississippi), Anna Szücs, M.D. (University of Geneva), Katalin Szanto, M.D. (University of Pittsburgh)</i>
 
 <p>This study applied a data-driven method to identify suicidal subtypes by conducting a latent profile analysis to examine suicidal ideation trajectories in a longitudinal sample.</p>
 <p>In this study, I was responsible for applying analytic models and visualizing data using radar plots and line plots.</p>
