@@ -22,9 +22,9 @@ bio: My research examines how people make decisions in harming themselves, espec
 
 interests:
 - minority mental health
-- suicide prediction
-- scalable interventions
-- computational modeling
+- suicide ideation and behaviors
+- transdiagnostic interventions
+- quantitative modeling
 
 education:
   courses:
