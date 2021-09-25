@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Open Resources
+title: Open Access Resources
 subtitle:
 weight: 68  # section position on page
 design:

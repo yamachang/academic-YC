@@ -18,10 +18,10 @@
   url = "#Pubs"
   weight = 30
 
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 40
+#[[main]]
+#  name = "Talks"
+#  url = "#talks"
+#  weight = 40
 
 [[main]]
   name = "Presentations"
@@ -34,7 +34,7 @@
   weight = 55
 
 [[main]]
-  name = "Open Access\n Materials"
+  name = "Open Access Resources"
   url = "#OpenResources"
   weight = 58
 
