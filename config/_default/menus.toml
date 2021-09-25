@@ -36,19 +36,19 @@
 [[main]]
   name = "Open Access Resources"
   url = "#OpenResources"
-  weight = 58
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 80
 
 
 
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#[[main]]
-#  name = "CV"
-#  url = "files/cv.pdf"
-#  weight = 15
+[[main]]
+  name = "CV"
+  url = "files/cv.pdf"
+  weight = 70
