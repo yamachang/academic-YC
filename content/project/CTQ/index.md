@@ -2,7 +2,7 @@
 date: "2016-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Visualization using [raincloudplots package](https://github.com/RainCloudPlots/RainCloudPlots)
+  caption: Accepted at 2021 IASR/AFSP International Summit on Suicide Research. 
   focal_point: Smart
 # links:
 # - icon: twitter
