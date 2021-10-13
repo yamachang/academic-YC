@@ -40,7 +40,7 @@ subtitle = "Researcher – Clinical Data, University of Pittsburgh Medical Cente
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["200px", "120px", "200px", "120px"]
+  padding = ["4000px", "1118px", "4000px", "1118px"]
 
 [advanced]
  # Custom CSS. 
