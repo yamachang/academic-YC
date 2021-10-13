@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Yama Chang M.A."
@@ -40,7 +40,7 @@ subtitle = "Researcher – Clinical Data, University of Pittsburgh Medical Cente
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["280px", "0px", "280px", "120px"]
+  padding = ["140px", "0px", "140px", "120px"]
 
 [advanced]
  # Custom CSS. 
