@@ -1,5 +1,6 @@
 ---
 widget: blank
+active = true
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
