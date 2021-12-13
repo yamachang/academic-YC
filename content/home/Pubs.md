@@ -13,4 +13,7 @@ design:
 
 <h3>Manuscripts Under Review</h3>
 
-Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (Invited revision). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace. *Socius*.
+**Chang, Y.**, Jackman, K., Dworkin, J., Singh, A., LeBlanc, A., & Bockting, W. (Under Review). Childhood Gender Nonconformity and Identity Development among a Diverse Transgender Community Sample in the United States. *Sex Roles*.
+
+
+Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (R & R). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace. *Socius*.
