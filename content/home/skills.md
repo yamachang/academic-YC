@@ -23,7 +23,7 @@ subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for researc
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Quantitative Analysis"
+  name = "Data-driven Analysis"
 #  description = "100%"  
   
 [[feature]]
