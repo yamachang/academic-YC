@@ -38,10 +38,10 @@
   url = "#OpenResources"
   weight = 60
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 80
+#[[main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 80
 
 
 
