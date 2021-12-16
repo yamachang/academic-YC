@@ -4,7 +4,7 @@ active: true
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Poster Presentations
+title: Conference Presentations
 subtitle:
 weight: 25  # section position on page
 design:
