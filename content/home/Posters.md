@@ -21,14 +21,14 @@ design:
 
 ***Poster Presentations***
 
-1.	**Chang, Y.**, Bockting, W. (2021, November). *Identity Development Trajectories and Childhood Gender Role Nonconformity Among a Gender and Racial Diverse Sample in the United States.* Poster presenter at 2021 Association for Behavioral and Cognitive Therapies 55th Annual Convention. New Orleans, LA.
+1.	**Chang, Y.**, Bockting, W. (2021, November). *Identity Development Trajectories and Childhood Gender Role Nonconformity Among a Gender and Racial Diverse Sample in the United States.* Poster presenter at 2021 Association for Behavioral and Cognitive Therapies 55th Annual Convention. New Orleans, LA. https://osf.io/w2shb/
 
-2.	**Chang, Y.**, Galfalvy, H., Buerke, M., Szanto, K. (2021, October). *The Relationship of Childhood Trauma Experiences with the Age of Onset of First Suicidal Behavior in Late-Life Depression.* Poster presenter at 2021 Pitt Psychiatry Research Day and Research Resources Revue.
-
-3.	**Chang, Y.**, Brown, V., Whitman, K., Dombrovski, A., Szanto., K. (2021, October). *Hippocampal MRI Volume Differences in Late-Life Suicidal Behavior.* Poster presenter at 2021 IASR/AFSP International Summit on Suicide Research. Barcelona, Spain. <br/>
+2.	**Chang, Y.**, Brown, V., Whitman, K., Dombrovski, A., Szanto., K. (2021, October). *Hippocampal MRI Volume Differences in Late-Life Suicidal Behavior.* Poster presenter at 2021 IASR/AFSP International Summit on Suicide Research. Barcelona, Spain. https://osf.io/v5cr2/ <br/>
 *** Nominated as a poster finalist (Top 10) for the early career researcher best poster award
 
-4.	**Chang, Y.**, Galfalvy, H., Buerke, M., Szanto, K. (2021, October). *Age of Onset of First Suicidal Behavior Determines Risk Factor Profiles in Older Suicide Attempters – Focus on Childhood Trauma Experiences.* Poster presenter at 2021 IASR/AFSP International Summit on Suicide Research. Barcelona, Spain.
+3.	**Chang, Y.**, Galfalvy, H., Buerke, M., Szanto, K. (2021, October). *Age of Onset of First Suicidal Behavior Determines Risk Factor Profiles in Older Suicide Attempters – Focus on Childhood Trauma Experiences.* Poster presenter at 2021 IASR/AFSP International Summit on Suicide Research. Barcelona, Spain. https://osf.io/xtakn/
+
+4.	**Chang, Y.**, Galfalvy, H., Buerke, M., Szanto, K. (2021, October). *The Relationship of Childhood Trauma Experiences with the Age of Onset of First Suicidal Behavior in Late-Life Depression.* Poster presenter at 2021 Pitt Psychiatry Research Day and Research Resources Revue. https://osf.io/xtakn/
 
 5.	**Chang, Y.**, & Malgaroli, M. (2021, April). *Longitudinal Predictors of Non-Suicidal Self-Injury among Gender Diverse Population: Machine Learning Approaches.* Poster presenter at 2021 Diversifying Clinical Psychology Conference, Council of University Directors of Clinical Psychology (CUDCP). 
 
