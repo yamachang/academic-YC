@@ -23,8 +23,8 @@ bio: My research examines how people make decisions in harming themselves, espec
 interests:
 - structural stigma
 - suicide ideation and behaviors
-- transdiagnostic interventions
-- quantitative modeling
+- data-driven methodoloties
+- scalable transdiagnostic interventions
 
 education:
   courses:
