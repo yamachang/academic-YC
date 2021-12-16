@@ -11,12 +11,13 @@ design:
   columns: '1'
 ---
 <br/>
+<p>2021&nbsp;&nbsp;&nbsp;&nbsp;<b>Queer in STEM Scholarship ($1250)</b><br/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oSTEM & Queer in AI
+</p>
+
 <p>2021&nbsp;&nbsp;&nbsp;&nbsp;<b>Poster Finalist (Top 10)</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2021 IASR/AFSP International Summit on Suicide Research
 </p>
-
-<p>2021&nbsp;&nbsp;&nbsp;&nbsp;<b>Selected Poster in Sexual and Gender Minority SIG Poster Session</b><br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Association for Behavioral and Cognitive Therapies 55th Annual Convention</p>
 
 <p>2021&nbsp;&nbsp;&nbsp;&nbsp;<b>Awarded A+ in Computational Psychiatry</b><br/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teachers College (TC), Columbia University</b><br/>
