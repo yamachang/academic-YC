@@ -17,7 +17,7 @@ design:
 
 1. Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (2022, April). *“Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace.* Paper accepted at 2022 Population Association of Americas annual conference. Atlanta, GA.
 
-2. Calati, R., Maisto, M., Miranda, R., Thompson, L., Lesanpezeshki, M., Baiden, P., Miller, C., **Chang, Y.**, Wang, P., Grzenda, A., Kirchner, S., & Clarke, D. E. (2021, October) Ethnic discrimination and suicidal thoughts and behaviors: an international-intercontinental collaborative project for a systematic review. In G. Zalsman (Chair), *IASR Metanalysis and Systematic Review Workshop Project. Paper presented at the 2021 IASR/AFSP International Summit on Suicide Research*. 
+2. Calati, R., Maisto, M., Miranda, R., Thompson, L., Lesanpezeshki, M., Baiden, P., Miller, C., **Chang, Y.**, Wang, P., Grzenda, A., Kirchner, S., & Clarke, D. E. (2021, October) Ethnic discrimination and suicidal thoughts and behaviors: an international-intercontinental collaborative project for a systematic review. In G. Zalsman (Chair), *IASR Metanalysis and Systematic Review Workshop Project.* Paper presented at the 2021 IASR/AFSP International Summit on Suicide Research. 
 
 ***Poster Presentations***
 
