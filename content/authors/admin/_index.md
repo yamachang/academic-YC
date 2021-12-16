@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yama (Ya-Wen) Chang
+title: Ya-Wen (Yama) Chang
 
 # Username (this should match the folder name)
 authors:
