@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher – Clinical Data
+role: Senior Data Analyst
 
 # Organizations/Affiliations
 organizations:
 - name: University of Pittsburgh
-  url: "http://gsuicide.pitt.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research examines how people make decisions in harming themselves, especially among minority population (e.g., LGBTQ youth).
@@ -24,7 +24,7 @@ interests:
 - structural stigma
 - suicide ideation and behaviors
 - SGM mental health disparities
-- data-driven methodoloties
+- data science
 
 education:
   courses:
@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-As the data manager for Dr. Katalin Szanto’s Late Life Suicide program at the UPMC Western Psychiatric Hospital, I manage our longitudinal study’s database, conduct quantitative modeling and analysis for independent and collaborative research projects, and oversee the data team. I am interested in applying data-driven approaches to (1) study the mechanisms underlying structural stigma and adverse mental health outcomes; (2) improve upon existing methodologies and assessments to detect quantifiable signals surrounding stigma and suicide risk; (3) better predict the onset of suicidal ideation and prevent the transition to suicidal behaviors; and (4) examine modifiable risk factors to identify scalable intervention targets, with the ultimate goal to reduce health disparities in stigmatized populations, particularly in sexual and gender minorities.
+As the Senior Data Analyst for Dr. Katalin Szanto’s Late Life Suicide program at the UPMC Western Psychiatric Hospital, I manage our longitudinal study’s database, conduct quantitative modeling and analysis for independent and collaborative research projects, and oversee the data team. I am interested in applying data-driven approaches to (1) study the mechanisms underlying structural stigma and adverse mental health outcomes; (2) improve upon existing methodologies and assessments to detect quantifiable signals surrounding stigma and suicide risk; (3) better predict the onset of suicidal ideation and prevent the transition to suicidal behaviors; and (4) examine modifiable risk factors to identify scalable intervention targets, with the ultimate goal to reduce health disparities in stigmatized populations, particularly in sexual and gender minorities.
 
 Pronouns: She/Her/Hers
 
