@@ -17,4 +17,4 @@ design:
 
 Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (R & R). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace. *Socius*.
 
-Galfalvy, H., Szücs, A., Chang, Y., Buerke, M., & Szanto, K. (Under Review). Long-term suicidal ideation profiles in late-life depression and their association with prospective suicide attempt and death by suicide. *Journal of Clinical Psychiatry*.
+Galfalvy, H., Szücs, A., **Chang, Y.**, Buerke, M., & Szanto, K. (Under Review). Long-term suicidal ideation profiles in late-life depression and their association with prospective suicide attempt and death by suicide. *Journal of Clinical Psychiatry*.
