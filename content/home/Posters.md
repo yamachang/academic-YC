@@ -15,13 +15,13 @@ design:
 
 ***Conference Presentations***
 
-1. Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (2022, April). *“Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace.* Paper accepted at 2022 Population Association of Americas annual conference. Atlanta, GA.
+1. Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (2022, April). *“Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace.* Paper presented at 2022 Population Association of Americas annual conference. Atlanta, GA.
 
 2. Calati, R., Maisto, M., Miranda, R., Thompson, L., Lesanpezeshki, M., Baiden, P., Miller, C., **Chang, Y.**, Wang, P., Grzenda, A., Kirchner, S., & Clarke, D. E. (2021, October) Ethnic discrimination and suicidal thoughts and behaviors: an international-intercontinental collaborative project for a systematic review. In G. Zalsman (Chair), *IASR Metanalysis and Systematic Review Workshop Project.* Paper presented at the 2021 IASR/AFSP International Summit on Suicide Research. 
 
 ***Poster Presentations***
 
-1.	**Chang, Y.**, Bockting, W. (2021, November). *Identity Development Trajectories and Childhood Gender Role Nonconformity Among a Gender and Racial Diverse Sample in the United States.* Poster presenter at 2021 Association for Behavioral and Cognitive Therapies 55th Annual Convention. New Orleans, LA. https://osf.io/w2shb/
+1.	**Chang, Y.**, Bockting, W. (2021, November). *Identity Development Trajectories and Childhood Gender Role Nonconformity Among a Gender and Racial Diverse Sample in the United States.* Poster presented at 2021 Association for Behavioral and Cognitive Therapies 55th Annual Convention. New Orleans, LA. https://osf.io/w2shb/
 
 2.	**Chang, Y.**, Brown, V., Whitman, K., Dombrovski, A., Szanto., K. (2021, October). *Hippocampal MRI Volume Differences in Late-Life Suicidal Behavior.* Poster presenter at 2021 IASR/AFSP International Summit on Suicide Research. Barcelona, Spain. https://osf.io/v5cr2/ <br/>
 *** Nominated as a poster finalist (Top 10) for the early career researcher best poster award
