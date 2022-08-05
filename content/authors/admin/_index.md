@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Data Analyst
+role: Senior Research/Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: University of Pittsburgh
+- name: Stony Brook University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research examines how people make decisions in harming themselves, especially among minority population (e.g., LGBTQ youth).
+bio: 
 
 interests:
 - structural stigma
-- suicide ideation and behaviors
+- scalable interventions
 - SGM mental health disparities
 - data science
 
@@ -49,9 +49,6 @@ social:
 - icon: osf
   icon_pack: ai
   link: osf.io/v9r5z
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Yama-Chang
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/yama_yawenchang
@@ -74,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-As the Senior Data Analyst for Dr. Katalin Szanto’s Late Life Suicide program at the UPMC Western Psychiatric Hospital, I manage our longitudinal study’s database, conduct quantitative modeling and analysis for independent and collaborative research projects, and oversee the data team. I am interested in applying data-driven approaches to (1) study the mechanisms underlying structural stigma and adverse mental health outcomes; (2) improve upon existing methodologies and assessments to detect quantifiable signals surrounding stigma and suicide risk; (3) better predict the onset of suicidal ideation and prevent the transition to suicidal behaviors; and (4) examine modifiable risk factors to identify scalable intervention targets, with the ultimate goal to reduce health disparities in stigmatized populations, particularly in sexual and gender minorities.
+I am a Senior Research/Data Analyst at the Lab for Scalable Mental Health at the Department of Psychology at Stony Brook University. Overall, I am fascinated with everything data related. I am interested in applying data-driven approaches to (1) study the mechanisms underlying structural stigma and adverse mental health outcomes; (2) improve upon existing methodologies and assessments to detect quantifiable signals surrounding stigma; and (3) examine modifiable risk factors to develop accessible, scalable intervention targets, with the ultimate goal to reduce health disparities in stigmatized populations, particularly in sexual and gender minorities.
 
 Pronouns: She/Her/Hers
 
