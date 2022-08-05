@@ -14,7 +14,7 @@ role: Senior Research/Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Stony Brook University
+- name: Lab for Scalable Mental Health
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
