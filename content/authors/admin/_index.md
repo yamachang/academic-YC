@@ -14,8 +14,8 @@ role: Senior Research/Data Analyst
 
 # Organizations/Affiliations
 organizations:
-- name: Lab for Scalable Mental Health
-  url: ""
+- name: Lab for Scalable Mental Health, Stony Brook University
+  url: "https://www.schleiderlab.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
