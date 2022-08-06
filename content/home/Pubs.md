@@ -13,7 +13,7 @@ design:
 
 <h3>Manuscripts Under Review</h3>
 
-Galfalvy, H., Szücs, A., **Chang, Y.**, Buerke, M., & Szanto, K. (R & R). Long-term suicidal ideation profiles in late-life depression and their association with prospective suicide attempt and death by suicide. *Journal of Clinical Psychiatry*.
+Galfalvy, H., Szücs, A., **Chang, Y.**, Buerke, M., & Szanto, K. (R & R). Long-term suicidal ideation profiles in late-life depression and their association with suicide attempt or death by suicide. *Journal of Clinical Psychiatry*.
 
 **Chang, Y.**, Jackman, K., Dworkin, J., Singh, A., LeBlanc, A., & Bockting, W. (Under Review). Childhood Gender Nonconformity and Identity Development among a Diverse Transgender Community Sample in the United States. 
 
