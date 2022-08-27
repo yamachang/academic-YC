@@ -13,8 +13,10 @@ design:
 
 <h3>Manuscripts Under Review</h3>
 
-Galfalvy, H., Szücs, A., **Chang, Y.**, Buerke, M., & Szanto, K. (R & R). Long-term suicidal ideation profiles in late-life depression and their association with suicide attempt or death by suicide. *Journal of Clinical Psychiatry*.
+Galfalvy, H., Szücs, A., **Chang, Y.**, Buerke, M., & Szanto, K. (R & R). Long-term suicidal ideation profiles in late-life depression and their association with suicide attempt or death by suicide. 
+
+**Chang, Y.**, Buerke, M., Galfalvy, H., & Szanto, K. (Under Review). Childhood Trauma is Associated with Early-Onset but not Late-Onset Suicidal Behavior in Late-Life Depression.
 
 **Chang, Y.**, Jackman, K., Dworkin, J., Singh, A., LeBlanc, A., & Bockting, W. (Under Review). Childhood Gender Nonconformity and Identity Development among a Diverse Transgender Community Sample in the United States. 
 
-Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (Under Review). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace. *Work and Occupations*.
+Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (Under Review). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace.
