@@ -11,9 +11,11 @@ design:
   columns: '1'
 ---
 
-<h3>Manuscripts Under Review</h3>
+<h3>Manuscripts Accepted/Published</h3>
 
-Galfalvy, H., Szücs, A., **Chang, Y.**, Buerke, M., & Szanto, K. (R & R). Long-term suicidal ideation profiles in late-life depression and their association with suicide attempt or death by suicide. 
+Galfalvy, H., Szücs, A., **Chang, Y.**, Buerke, M., & Szanto, K. (Accepted). Long-term suicidal ideation profiles in late-life depression and their association with suicide attempt or death by suicide. *Journal of Clinical Psychiatry*
+
+<h3>Manuscripts Under Review</h3>
 
 *Schumacher, E., ***Chang, Y.**, Maheux, A. J., Martino, R. M., Choukas-Bradley, S., Salk, R. H., & Thoma, B. C. (Under Review). Structural stigma and suicidal thoughts and behavior among U.S. sexual minority youth.<br/>
 *The two first authors contributed equally to this work and should be considered joint first authors.  
