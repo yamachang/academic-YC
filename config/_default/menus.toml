@@ -23,10 +23,10 @@
 #  url = "#talks"
 #  weight = 40
 
-[[main]]
-  name = "Presentations"
-  url = "#Posters"
-  weight = 50
+#[[main]]
+#  name = "Presentations"
+#  url = "#Posters"
+#  weight = 50
 
 [[main]]
   name = "Awards"
@@ -49,6 +49,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "CV"
+  name = "Resume"
   url = "files/cv.pdf"
   weight = 70
