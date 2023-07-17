@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Senior Research/Data Analyst
+role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio: 
 
 interests:
-- structural stigma
 - scalable interventions
 - SGM mental health disparities
+- maching learning
 - data science
 
 education:
@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Senior Research/Data Analyst at the Lab for Scalable Mental Health at Stony Brook University under the mentorship of Dr. Jessica Schleider. Overall, I am fascinated with everything data related. I am interested in applying data-driven approaches to (1) study the mechanisms underlying structural stigma and adverse mental health outcomes; (2) improve upon existing methodologies and assessments to detect quantifiable signals surrounding stigma; and (3) examine modifiable risk factors to develop accessible, scalable intervention targets, with the ultimate goal to reduce health disparities in stigmatized populations, particularly in sexual and gender minorities.
+I am a Data Scientist at the Lab for Scalable Mental Health at Stony Brook University under the mentorship of Dr. Jessica Schleider. Overall, I am fascinated with everything data related. I am interested in applying data-driven approaches to (1) study the mechanisms underlying structural stigma and adverse mental health outcomes; (2) improve upon existing methodologies and assessments to detect quantifiable signals surrounding stigma; and (3) examine modifiable risk factors to develop accessible, scalable intervention targets, with the ultimate goal to reduce health disparities in stigmatized populations, particularly in sexual and gender minorities.
 
 Pronouns: She/Her/Hers
 
