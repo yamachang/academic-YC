@@ -13,13 +13,13 @@ design:
 
 <h3>Manuscripts Accepted/Published</h3>
 
+**Chang, Y.**, Buerke, M., Galfalvy, H., & Szanto, K. (Accepted). Childhood Trauma is Associated with Early-Onset but not Late-Onset Suicidal Behavior in Late-Life Depression. *International Psychogeriatrics*
+
 Galfalvy, H., Szücs, A. **Chang, Y.**, Buerke, M., & Szanto, K. (2023). Long-term suicidal ideation profiles in late-life depression and their association with prospective suicide attempt and death by suicide. *The Journal of Clinical Psychiatry.* https://pubmed.ncbi.nlm.nih.gov/36791367/
 
 <h3>Manuscripts Under Review</h3>
 
-Szkody, E., **Chang, Y.** Schleider, J. (Under Review). Serving the Underserved? Uptake, Effectiveness, and Acceptability of Digital SSIs for Rural American Adolescents.
-
-**Chang, Y.**, Buerke, M., Galfalvy, H., & Szanto, K. (R & R). Childhood Trauma is Associated with Early-Onset but not Late-Onset Suicidal Behavior in Late-Life Depression.
+Szkody, E., **Chang, Y.** Schleider, J. (R & R). Serving the Underserved? Uptake, Effectiveness, and Acceptability of Digital SSIs for Rural American Adolescents.
 
 *Schumacher, E., ***Chang, Y.**, Maheux, A. J., Martino, R. M., Choukas-Bradley, S., Salk, R. H., & Thoma, B. C. (R & R). Structural stigma and suicidal thoughts and behavior among U.S. sexual minority youth.<br/>
 *The two first authors contributed equally to this work and should be considered joint first authors.  
@@ -27,3 +27,9 @@ Szkody, E., **Chang, Y.** Schleider, J. (Under Review). Serving the Underserved?
 **Chang, Y.**, Jackman, K., Dworkin, J., Singh, A., LeBlanc, A., & Bockting, W. (Under Review). Childhood Gender Nonconformity and Identity Development among a Diverse Transgender Community Sample in the United States. 
 
 Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (Under Review). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace.
+
+<h3>Manuscripts In Preparation</h3>
+
+**Chang, Y.**, Sotomayor, I., Szkody, E., Fox, K., & Schleider, J. L. (In Preparation). Effectiveness of an Online Single-Session Minority Stress Intervention: Variation by Structural Stigma?
+
+Sotomayor, I., **Chang, Y.**, Szkody, E., Fox, K., & Schleider, J. L. (In Preparation). Intersectionality and a Minority Stress-Based Single-Session Intervention Benefit Multiply-Marginalized LGBTQ+ Adolescents.
