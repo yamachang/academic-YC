@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Skills"
-subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for research projects and reproducible script"
+subtitle = "Find my data science projects and reproducible scripts on my [GitHub](https://github.com/yamachang) "
 
 # Showcase personal skills or business features.
 # 
@@ -21,13 +21,13 @@ subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for researc
   description = "100%"
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = "90%"
 
 [[feature]]
-  icon = "fa-database"
+  icon = "database"
   icon_pack = "fas"
   name = "SQL"
   description = "85%"
@@ -39,7 +39,7 @@ subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for researc
   description = "100%"  
   
 [[feature]]
-  icon = "chart-line"
+  icon = "cloud"
   icon_pack = "fas"
   name = "Machine Learning"
   description = "90%"  
