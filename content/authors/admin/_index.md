@@ -75,4 +75,6 @@ I am a Data Scientist at the Lab for Scalable Mental Health at Stony Brook Unive
 
 Pronouns: She/Her/Hers
 
-{{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}&nbsp; View my resume {{< /staticref >}} <br/>
+{{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/resume.pdf" "newtab" >}}&nbsp; View my Data Scientist resume {{< /staticref >}} <br/>
+
+{{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}&nbsp; View my academic CV {{< /staticref >}} <br/>
