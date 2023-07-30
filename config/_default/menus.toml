@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Research Projects"
-  url = "#projects"
+  name = "Portfolio"
+  url = "https://yamachang.github.io/"
   weight = 20
 
 [[main]]
@@ -49,6 +49,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "Resume"
-  url = "files/cv.pdf"
+  name = "Portfolio"
+  url = "files/resume.pdf"
   weight = 70
