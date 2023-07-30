@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 5  # Order that this section will appear.
 
 title = "Yama Chang M.A."
-subtitle = "Senior Research/Data Analyst, Lab for Scalable Mental Health, Stony Brook University"
+subtitle = "Data Scientist, Lab for Scalable Mental Health"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
