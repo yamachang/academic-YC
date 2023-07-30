@@ -17,20 +17,38 @@ subtitle = "Find my R code on [GitHub](https://github.com/yamachang) for researc
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
-  name = "Statistical Programming"
-#  description = "100%"
+  name = "R"
+  description = "100%"
+
+[[feature]]
+  icon = "fa-python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "90%"
+
+[[feature]]
+  icon = "fa-database"
+  icon_pack = "fas"
+  name = "SQL"
+  description = "85%"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Statistical Analysis"
+  description = "100%"  
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Data-driven Analysis"
-#  description = "100%"  
+  name = "Machine Learning"
+  description = "90%"  
   
 [[feature]]
   icon = "chart-area"
   icon_pack = "fas"
   name = "Data Visualization"
-#  description = "60%"
+  description = "100%"
 
 #[[feature]]
 #  icon = "book"
