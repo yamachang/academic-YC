@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Data Scientist at the Lab for Scalable Mental Health at Stony Brook University under the mentorship of Dr. Jessica Schleider. Overall, I am fascinated with everything data related. I am interested in applying data-driven approaches to (1) study the mechanisms underlying structural stigma and adverse mental health outcomes; (2) improve upon existing methodologies and assessments to detect quantifiable signals surrounding stigma; and (3) examine modifiable risk factors to develop accessible, scalable intervention targets, with the ultimate goal to reduce health disparities in stigmatized populations, particularly in sexual and gender minorities.
+I serve as a Data Scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/), collaborating closely with Dr. Jessica Schleider. My expertise in data science plays a pivotal role in our team's diverse projects, especially those centered around the development of digital mental health tools. My contributions focus on predicting how effective these tools can be in alleviating mental health symptoms — a field that deeply resonates with my interests and passions. Leveraging my background in clinical psychology, I am employing data science to: (1) explore the underlying mechanisms that link structural stigma to adverse mental health outcomes; (2) enhance existing methodologies and assessments for detecting quantifiable indicators of stigma; and (3) investigate adjustable risk factors to create accessible, scalable interventions. The ultimate goal of our work is to diminish health disparities in stigmatized communities, with an emphasis on LGBTQ+ individuals.
 
 Pronouns: She/Her/Hers
 
