@@ -14,7 +14,7 @@ role: Data Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Lab for Scalable Mental Health, Stony Brook University
+- name: Lab for Scalable Mental Health, Northwestern University
   url: "https://www.schleiderlab.org/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,8 +23,8 @@ bio:
 interests:
 - scalable interventions
 - SGM mental health disparities
+- digital mental health
 - maching learning
-- data science
 
 education:
   courses:
