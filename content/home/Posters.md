@@ -15,9 +15,9 @@ design:
 
 ***Conference Presentations***
 
-1.	Chang, Y., Sotomayor, I., Szkody, E., Fox, K., & Schleider, J. L. (2023, November). Effectiveness of an Online Single-Session Minority Stress Intervention: Variation by Structural Stigma? In Ahuvia, I., & McKetta, S. (Chairs), Price, M. (Discussant), The Role of Structural Stigma in Psychopathology Among Marginalized Youth. Symposium to be presented at the 57th annual meeting of the Association of Behavioral and Cognitive Therapies, Seattle, WA.
+1.	**Chang, Y.**, Sotomayor, I., Szkody, E., Fox, K., & Schleider, J. L. (2023, November). *Effectiveness of an Online Single-Session Minority Stress Intervention: Variation by Structural Stigma?* In Ahuvia, I., & McKetta, S. (Chairs), Price, M. (Discussant), The Role of Structural Stigma in Psychopathology Among Marginalized Youth. Symposium to be presented at the 57th annual meeting of the Association of Behavioral and Cognitive Therapies, Seattle, WA.
 
-2.	Sotomayor, I., Chang, Y., Szkody, E., Fox, K., & Schleider, J. L. (2023, November). Intersectionality and a minority stress-based single-session intervention benefit multiply-marginalized LGBTQ+ adolescents. In A.L. Silverman & G. Ramos (Co-Chairs), A. Aguilera (Discussant), Leveraging digital mental health interventions to increase access to care among marginalized racial and ethnic groups. Symposium to be presented at the 57th annual meeting of the Association of Behavioral and Cognitive Therapies, Seattle, WA.
+2.	Sotomayor, I., **Chang, Y.**, Szkody, E., Fox, K., & Schleider, J. L. (2023, November). *Intersectionality and a minority stress-based single-session intervention benefit multiply-marginalized LGBTQ+ adolescents.* In A.L. Silverman & G. Ramos (Co-Chairs), A. Aguilera (Discussant), Leveraging digital mental health interventions to increase access to care among marginalized racial and ethnic groups. Symposium to be presented at the 57th annual meeting of the Association of Behavioral and Cognitive Therapies, Seattle, WA.
 
 3. Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (2022, April). *“Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace.* Paper presented at 2022 Population Association of Americas annual conference. Atlanta, GA.
 
