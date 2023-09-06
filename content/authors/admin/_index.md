@@ -45,13 +45,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ya-wen.chang@stonybrook.edu'  # For a direct email link, use "mailto:test@example.org".
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=AFAYk_sAAAAJ
 - icon: osf
   icon_pack: ai
   link: https://osf.io/v9r5z
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/yama_ywchang
+# - icon: twitter
+#   icon_pack: fab
+#   link: https://twitter.com/yama_ywchang
 - icon: github
   icon_pack: fab
   link: https://github.com/yamachang
