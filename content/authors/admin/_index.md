@@ -81,6 +81,6 @@ I am a Data Scientist at the [Lab for Scalable Mental Health](https://www.schlei
 
 <!-->fa-solid fa-laptop-code-->
 
-{{< icon name="ai open-data" pack="ai" >}} {{< staticref "https://yamachang.rbind.io/" "newtab" >}}&nbsp; View my Data Scientist Portfolio {{< /staticref >}} <br/>
+{{< "ai open-data" > }} {{< staticref "https://yamachang.rbind.io/" "newtab" >}}&nbsp; View my Data Scientist Portfolio {{< /staticref >}} <br/>
 {{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/resume.pdf" "newtab" >}}&nbsp; View my Data Scientist resume {{< /staticref >}} <br/>
 {{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}&nbsp; View my Academic CV {{< /staticref >}} <br/>
