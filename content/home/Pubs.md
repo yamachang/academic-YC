@@ -13,7 +13,7 @@ design:
 
 <h3>Manuscripts Accepted/Published</h3>
 
-**Chang, Y.**, Buerke, M., Galfalvy, H., & Szanto, K. (2023). Childhood trauma is associated with early-onset but not late-onset suicidal behavior in late-life depression. *International Psychogeriatrics*, 1-14. doi:10.1017/S1041610223000662  
+**Chang, Y.**, Buerke, M., Galfalvy, H., & Szanto, K. (2023). Childhood trauma is associated with early-onset but not late-onset suicidal behavior in late-life depression. *International Psychogeriatrics*, 1-14. [doi:10.1017/S1041610223000662](https://pubmed.ncbi.nlm.nih.gov/37642013/)  
 
 Galfalvy, H., Szücs, A. **Chang, Y.**, Buerke, M., & Szanto, K. (2023). Long-term suicidal ideation profiles in late-life depression and their association with prospective suicide attempt and death by suicide. *The Journal of Clinical Psychiatry.* https://pubmed.ncbi.nlm.nih.gov/36791367/
 
