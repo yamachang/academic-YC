@@ -17,9 +17,9 @@ design:
 
 Galfalvy, H., Szücs, A. **Chang, Y.**, Buerke, M., & Szanto, K. (2023). Long-term suicidal ideation profiles in late-life depression and their association with prospective suicide attempt and death by suicide. *The Journal of Clinical Psychiatry.* https://pubmed.ncbi.nlm.nih.gov/36791367/
 
-<h3>Manuscripts Under Review</h3>
+Szkody, E., **Chang, Y.** Schleider, J. (in press). Serving the Underserved? Uptake, Effectiveness, and Acceptability of Digital SSIs for Rural American Adolescents. *Journal of Clinical Child and Adolescent Psychology*
 
-Szkody, E., **Chang, Y.** Schleider, J. (R & R). Serving the Underserved? Uptake, Effectiveness, and Acceptability of Digital SSIs for Rural American Adolescents.
+<h3>Manuscripts Under Review</h3>
 
 Paine, E., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (R & R). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigma, Discrimination, and Affirmation in the Workplace.
 
