@@ -21,8 +21,8 @@ organizations:
 bio: 
 
 interests:
+- structural stigma and health disparities
 - scalable interventions
-- SGM mental health disparities
 - digital mental health
 - maching learning
 
