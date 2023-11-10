@@ -4,13 +4,13 @@
 widget: portfolio
 
 # This file represents a page section.
-active: false  # Activate this widget? true/false
+active: true  # Activate this widget? true/false
 headless: false
 
 # Order that this section appears on the page.
 weight: 21
 
-title: Current Projects
+title: Research Projects
 subtitle: ''
 
 content:
@@ -28,12 +28,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Minority Mental Health
+  - name: Machine Learning
+    tag: Machine Learning
+  - name: Digital Mental Health
+    tag: Digital Mental Health
+  - name: LGBTQ+ Health
     tag: LGBTQ
-  - name: Suicide
-    tag: Suicide
-  - name: Quantitative Modeling
-    tag: Quantitative Modeling
+  - name: Peer-reviewed Publications
+    tag: Publication
+  - name: Modeling
+    tag: Modeling
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -44,7 +48,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
