@@ -18,24 +18,27 @@ summary:
 tags:
 - LGBTQ
 - Digital Mental Health
-title: Structural Stigma and Digital Mental Health
+title: Structural Stigma and Intervention Effect
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-<p>In this project, we constructed an ML pipeline that predicted changes in the overall severity of depression symptoms in adolescents with high symptoms over a three-month period. We computed the residuals from a linear regression model, predicting the 3-month depression sum score based on the baseline depression sum score. These residuals, which represent the unexplained change over three months, were utilized to build a model that could capture factors not included in the baseline model.</p>
-
-<p>The project entailed comprehensive model building, time-series feature engineering, data preprocessing, model evaluation, and validation to ensure the high quality of input data for the models and the accuracy and interpretability of the results. We trained and evaluated various regression algorithms, including Elastic Net, Random Forest, and Extreme Gradient Boosting, to assess their prediction performance.</p>
-
-<p>Additionally, I visualized the time-series data to gain insights into the trends of eight depressive symptoms (e.g., sadness, energy, interest, etc.).</p>
-
-
-<h6>Read more</h6>
 <hr>
-<span>We are currently drafting the manuscript. To explore the project in detail, please visit the GitHub repository. This repository contains analysis code for this project on the Open Science Framework (OSF).</span>
-<div style="margin-top: 5px;">
-<a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://github.com/yamachang/ttt-p1-main-analysis"  >Github</a>
-                      <a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://osf.io/c4e75/">Pre-registration</a>
+<p>In this project, I embarked on the challenge of quantifying discrimination using real-world data. Structural stigma, which encompasses discrimination embedded in societal-level conditions, cultural norms, and institutional policies, has a significant impact on LGBTQ+ individuals in the U.S. While established methods exist to measure individual and interpersonal stigma, quantifying structural stigma poses a unique challenge due to its complex macro-social nature.
 
+To address this, I designed an approach using Confirmatory Factor Analysis, utilizing a variety of variables that represented both explicit and implicit attitudes specific to LGBTQ+ individuals from an open data set, Project Implicit. This allowed us to create an index of county-level structural stigma. The resulting factor, when visualized on a U.S. map, provides an illuminating representation of the structural stigma landscape across the country. It helps us better understand the macro-social context and pervasive challenges that LGBTQ+ populations in the U.S. encounter in their day-to-day lives.</p>
+                    <p>Data for this project was sourced from the open-access repository of <a href="https://osf.io/y9hiq/">Project Implicit</a>. We specifically utilized the most recent data, spanning from January to December 2022, with the aim of capturing current societal attitudes towards LGBTQ+. This was achieved by aggregating responses from two separate data sets — Sexuality IAT and Transgender IAT — where participants expressed their implicit and explicit attitudes towards the LGBTQ+ community. Importantly, the data included <code>zip codes</code> provided by the participants, enabling us to link the model-generated factor scores to the corresponding county-level structural stigma.</p>
+                    <h6>Read more</h6>
+                    <hr>
+                    <span>More details about this project can be found in my <a
+                        href="https://yamachang.github.io/post-project-stigma/">blog post</a>. I will update and share the open-source code once the paper is submitted to a journal and published on a preprint website.</span>
+                    <div style="margin-top: 5px;">
+                      <a class="btn btn-primary btn text-uppercase js-scroll-trigger"
+                        href="https://yamachang.github.io/post-project-stigma/">Blog</a>
+                      <!-- a class="btn btn-secondary btn text-uppercase js-scroll-trigger"
+                        href="https://github.com/holtzy/the-NB-COMO-Project">Github</a -->
+                      <!-- a class="btn btn-secondary btn text-uppercase js-scroll-trigger"
+                        href="https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2720421">Paper</a -->
+                    </div>
