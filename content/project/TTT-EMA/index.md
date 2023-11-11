@@ -18,7 +18,7 @@ summary:
 tags:
 - Machine Learning
 - Digital Mental Health
-title: Time-Series Prediction of the Change in Depressive Symptoms
+title: Time-Series Prediction of Change in Depressive Symptoms
 url_code: ""
 url_pdf: ""
 url_slides: ""
