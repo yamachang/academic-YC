@@ -18,7 +18,7 @@ summary:
 tags:
 - Publication
 - Digital Mental Health
-title: Digital SSIs for Rural Adolescents
+title: Digital Interventions for Rural Adolescents
 url_code: ""
 url_pdf: ""
 url_slides: ""
