@@ -31,16 +31,12 @@ url_video: ""
 
 <p>Additionally, I visualized the time-series data to gain insights into the trends of eight depressive symptoms (e.g., sadness, energy, interest, etc.).</p>
 
-image = "TTT-EMA-wide.jpg"
 
-                    <p align="center">
-                    <img src="/Users/yamachang/Desktop/academic-YC/content/project/TTT-EMA/TTT-EMA-wide.jpg" alt="Individual Time-series Line Plot of Depressive Symptoms" width="100%"></img></p>
-                    
-                    <h6>Read more</h6>
-                    <hr>
-                    <span>We are currently drafting the manuscript. To explore the project in detail, please visit the GitHub repository. This repository contains analysis code for this project on the Open Science Framework (OSF).</span>
-                    <div style="margin-top: 5px;">
-                      <a class="btn btn-primary btn text-uppercase js-scroll-trigger"
+<h6>Read more</h6>
+<hr>
+<span>We are currently drafting the manuscript. To explore the project in detail, please visit the GitHub repository. This repository contains analysis code for this project on the Open Science Framework (OSF).</span>
+<div style="margin-top: 5px;">
+<a class="btn btn-primary btn text-uppercase js-scroll-trigger"
                         href="https://github.com/yamachang/ttt-p1-main-analysis"  >Github</a>
                       <a class="btn btn-secondary btn text-uppercase js-scroll-trigger"
                         href="https://osf.io/c4e75/ style="color:#6474E5;">Pre-registration</a>
