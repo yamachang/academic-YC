@@ -9,8 +9,8 @@
   weight = 10
 
 [[main]]
-  name = "Portfolio"
-  url = "https://yamachang.rbind.io/"
+  name = "Research"
+  url = "#project"
   weight = 20
 
 [[main]]
@@ -49,6 +49,6 @@
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
-  name = "Resume"
-  url = "files/resume.pdf"
+  name = "CV"
+  url = "files/cv.pdf"
   weight = 70
