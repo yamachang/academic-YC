@@ -34,10 +34,12 @@ Digital SSIs reached rural and urban adolescents at population-congruent rates; 
 
 <p><strong>Conclusion</strong><br>
 Digital SSIs and their dissemination through social media may offer a promising means of narrowing the gap between rural and urban adolescents’ access to evidence-based mental health support; however, targeted efforts are warranted to reach racially minoritized youths in rural U.S. counties.</p>
-                    <center><img src="img/portfolio/pub_rurality_wide.jpg" width="100%"></img></center>
+
+<p><strong>Citation</strong><br>
+Szkody, E., Chang, Y. W., & Schleider, J. L. (2023). Serving the Underserved? Uptake, Effectiveness, and Acceptability of Digital SSIs for Rural American Adolescents. <i>Journal of Clinical Child & Adolescent Psychology</i>, 1-14.
                     <h6>Read more</h6>
                     <hr>
-                    <span>This paper has been published on <a href="https://www.tandfonline.com/doi/abs/10.1080/15374416.2023.2272935">the Journal of Clinical Child and Adolescent Psychology</a>. You can find the pre-registration and open code on OSF.</span>
+                    <span>This paper has been published on <a href="https://www.tandfonline.com/doi/abs/10.1080/15374416.2023.2272935">the Journal of Clinical Child and Adolescent Psychology</a>. If you need the access to the full paper, please don't hesitate to <a href="mailto:yc3508@tc.columbia.edu">email me</a>, and I'd be happy to provide you with the published PDF file. You can also find the pre-registration and open code on OSF.</span>
                     <br><br><br>
                     <div style="margin-top: 5px;">
                       <a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://www.tandfonline.com/doi/abs/10.1080/15374416.2023.2272935">Paper</a>
