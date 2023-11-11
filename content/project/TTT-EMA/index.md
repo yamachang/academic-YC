@@ -1,8 +1,8 @@
 ---
-date: "2023-04-27T00:00:00Z"
+date: "2023-10-27T00:00:00Z"
 external_link: ""
 image:
-  caption: Presented at 2021 IASR/AFSP International Summit on Suicide Research. 
+  caption: 
   focal_point: Smart
 # links:
 # - icon: twitter
@@ -12,36 +12,28 @@ image:
 slides: 
 summary: 
 tags:
-- Publication
-- Modeling
-title: Childhood Trauma and Onset of Suicidal Attempt
+- Machine Learning
+- Digital Mental Health
+title: Time-Series Prediction of the Change in Depressive Symptoms
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
 
-<p><strong>Objectives</strong><br>
-To examine the relationship between childhood traumatic experiences and early and late-onset suicidal behavior among depressed older adults.</p>
+<p>In this project, we constructed an ML pipeline that predicted changes in the overall severity of depression symptoms in adolescents with high symptoms over a three-month period. We computed the residuals from a linear regression model, predicting the 3-month depression sum score based on the baseline depression sum score. These residuals, which represent the unexplained change over three months, were utilized to build a model that could capture factors not included in the baseline model.</p>
 
-<p><strong>Methods</strong><br>
-Our sample included 224 adults aged 50+ (M ± SD = 62.5 ± 7.4) recruited into three depressed groups: (1) 84 suicide attempters, (2) 44 suicide ideators, and (3) 58 non-suicidal comparisons, and a non-psychiatric healthy comparison group (N = 38). The Childhood Trauma Questionnaire measured experiences of childhood trauma such as emotional abuse, physical abuse, emotional neglect, physical neglect, and sexual abuse.</p>
+<p>The project entailed comprehensive model building, time-series feature engineering, data preprocessing, model evaluation, and validation to ensure the high quality of input data for the models and the accuracy and interpretability of the results. We trained and evaluated various regression algorithms, including Elastic Net, Random Forest, and Extreme Gradient Boosting, to assess their prediction performance.</p>
 
-<p><strong>Results</strong><br>
-Attempters were separated into early- and late-onset based on age of first attempt using a <strong>Gaussian mixture model (GMM)</strong> that identified a cutoff age of 30 years old.<br>
-
-<center><img src="content/project/CTQ/CTQ_GMM.png" width="100%"></img></center>
-
-Overall, we found group differences in emotional and physical abuse and neglect in both genders and sexual abuse in females, but not in males. Early-onset attempters experienced more childhood emotional abuse and neglect than late-onset attempters and were more likely to have experienced multiple forms of abuse. They also experienced more emotional abuse and neglect than all comparison groups. Consistently, early-onset attempters more often met criteria for current or lifetime PTSD relative to late-onset attempters and most comparison groups. Late-onset attempters had similar levels of childhood trauma as other depressed groups.</p>
-
-<p><strong>Conclusions</strong><br>
-Our study reaffirms that there are distinct pathways to suicidal behavior in older adults based on their age of first suicide attempt and that trauma experienced in childhood has long-lasting emotional and behavioral consequences, even into late life.</p>
-
-<p><strong>Citation</strong><br>
-Chang, Y. W., Buerke, M., Galfalvy, H., & Szanto, K. (2023). Childhood trauma is associated with early-onset but not late-onset suicidal behavior in late-life depression. *International Psychogeriatrics*, 1-14.
-  
-<h6>Read more</h6>
-<hr>
-<span>You can read the full text of this peer-reviewed paper on <a
-                        href="https://www.cambridge.org/core/journals/international-psychogeriatrics/article/childhood-trauma-is-associated-with-earlyonset-but-not-lateonset-suicidal-behavior-in-latelife-depression/8A72EA4F601DB356E1212B96EF4240F9">International Psychogeriatrics</a>.</span>
+<p>Additionally, I visualized the time-series data to gain insights into the trends of eight depressive symptoms (e.g., sadness, energy, interest, etc.).</p>
+                    <p align="center">
+                    <img src="/Users/yamachang/Desktop/academic-YC/content/project/TTT-EMA/TTT-EMA-wide.jpg" alt="Individual Time-series Line Plot of Depressive Symptoms" width="100%"></img></p>
+                    <h6>Read more</h6>
+                    <hr>
+                    <span>We are currently drafting the manuscript. To explore the project in detail, please visit the GitHub repository. This repository contains analysis code for this project on the Open Science Framework (OSF).</span>
+                    <div style="margin-top: 5px;">
+                      <a class="btn btn-secondary btn text-uppercase js-scroll-trigger"
+                        href="https://github.com/yamachang/ttt-p1-main-analysis">Github</a>
+                      <a class="btn btn-secondary btn text-uppercase js-scroll-trigger"
+                        href="https://osf.io/c4e75/">OSF</a>
 
