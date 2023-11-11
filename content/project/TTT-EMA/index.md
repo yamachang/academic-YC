@@ -2,7 +2,7 @@
 date: "2023-11-08T00:00:00Z"
 external_link: ""
 image:
-  caption: "Made by Yama Chang, 2023"
+  caption: "Individual Time-series Line Plot of Depressive Symptoms, Yama Chang © 2023"
   focal_point: Smart
 # links:
 # - icon: github
