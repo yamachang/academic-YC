@@ -18,7 +18,7 @@ summary:
 tags:
 - LGBTQ
 - Digital Mental Health
-title: Structural Stigma and Intervention Effect
+title: Structural Stigma and Digital Intervention
 url_code: ""
 url_pdf: ""
 url_slides: ""
