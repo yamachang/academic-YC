@@ -5,7 +5,7 @@ widget: portfolio
 
 # This file represents a page section.
 active: true  # Activate this widget? true/false
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 21
@@ -36,8 +36,6 @@ content:
     tag: LGBTQ
   - name: Peer-reviewed Publications
     tag: Publication
-  - name: Modeling
-    tag: Modeling
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -48,7 +46,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
