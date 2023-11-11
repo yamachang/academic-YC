@@ -4,15 +4,15 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-links:
-- icon: github
-  icon_pack: ai
-  name: Github
-  url: https://github.com/yamachang/ttt-p1-main-analysis
-- icon: osf
-  icon_pack: ai
-  name: Pre-registration
-  url: https://osf.io/c4e75/
+# links:
+# - icon: github
+#   icon_pack: ai
+#   name: Github
+#   url: https://github.com/yamachang/ttt-p1-main-analysis
+# - icon: osf
+#   icon_pack: ai
+#   name: Pre-registration
+#   url: https://osf.io/c4e75/
 slides: 
 summary: 
 tags:
@@ -35,9 +35,9 @@ url_video: ""
                     <h6>Read more</h6>
                     <hr>
                     <span>We are currently drafting the manuscript. To explore the project in detail, please visit the GitHub repository. This repository contains analysis code for this project on the Open Science Framework (OSF).</span>
-                    <div style="margin-top: 5px;">
+                    <div style="margin-top: 5px; color:#6474E5;">
                       <a class="btn btn-secondary btn text-uppercase js-scroll-trigger"
-                        href="https://github.com/yamachang/ttt-p1-main-analysis">Github</a>
+                        href="https://github.com/yamachang/ttt-p1-main-analysis" >Github</a>
                       <a class="btn btn-secondary btn text-uppercase js-scroll-trigger"
-                        href="https://osf.io/c4e75/">OSF</a>
+                        href="https://osf.io/c4e75/">Pre-registration</a>
 
