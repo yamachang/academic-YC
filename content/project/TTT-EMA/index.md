@@ -4,11 +4,15 @@ external_link: ""
 image:
   caption: 
   focal_point: Smart
-# links:
-# - icon: twitter
-#   icon_pack: fab
-#   name: Follow
-#   url: https://twitter.com/yama_yawenchang
+links:
+- icon: github
+  icon_pack: ai
+  name: Github
+  url: https://github.com/yamachang/ttt-p1-main-analysis
+- icon: osf
+  icon_pack: ai
+  name: Pre-registration
+  url: https://osf.io/c4e75/
 slides: 
 summary: 
 tags:
