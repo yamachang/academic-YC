@@ -2,7 +2,7 @@
 date: "2023-11-03T00:00:00Z"
 external_link: ""
 image:
-  caption: 
+  caption: "Made by Yama Chang, 2022"
   focal_point: Smart
 # links:
 # - icon: github
@@ -40,7 +40,6 @@ Szkody, E., Chang, Y. W., & Schleider, J. L. (2023). Serving the Underserved? Up
                     <h6>Read more</h6>
                     <hr>
                     <span>This paper has been published on <a href="https://www.tandfonline.com/doi/abs/10.1080/15374416.2023.2272935">the Journal of Clinical Child and Adolescent Psychology</a>. If you need the access to the full paper, please don't hesitate to <a href="mailto:yc3508@tc.columbia.edu">email me</a>, and I'd be happy to provide you with the published PDF file. You can also find the pre-registration and open code on OSF.</span>
-                    <br><br><br>
                     <div style="margin-top: 5px;">
                       <a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://www.tandfonline.com/doi/abs/10.1080/15374416.2023.2272935">Paper</a>
                       <a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://osf.io/9jg5h">Pre-registration</a>
