@@ -112,7 +112,7 @@ coordinates = {latitude = "40.447699", longitude = "-79.949551"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/yama_yawenchang"},
+  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/yama_ywchang"},
   {icon = "linkedin", icon_pack = "fab", name = "Linkedin", link = "https://www.linkedin.com/in/yama-yw-chang/"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "yama-yw-chang"
+twitter = "yama_ywchang"
 
 ############################
 ## Regional Settings

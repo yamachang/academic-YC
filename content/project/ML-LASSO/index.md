@@ -2,7 +2,7 @@
 date: "2020-04-13T00:00:00Z"
 external_link: ""
 image:
-  caption: 
+  caption: "Made by Yama Chang, 2020"
   focal_point: Smart
 # links:
 # - icon: github

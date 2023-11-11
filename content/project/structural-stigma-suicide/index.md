@@ -2,7 +2,7 @@
 date: "2023-01-03T00:00:00Z"
 external_link: ""
 image:
-  caption: 
+  caption: "LGBTQ Equality by State. Credit: Movement Advancement Project"
   focal_point: Smart
 # links:
 # - icon: github

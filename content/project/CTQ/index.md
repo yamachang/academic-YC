@@ -2,7 +2,7 @@
 date: "2023-04-27T00:00:00Z"
 external_link: ""
 image:
-  caption: 
+  caption: "Made by Yama Chang, 2021"
   focal_point: Smart
 # links:
 # - icon: twitter
@@ -29,8 +29,6 @@ Our sample included 224 adults aged 50+ (M ± SD = 62.5 ± 7.4) recruited into t
 
 <p><strong>Results</strong><br>
 Attempters were separated into early- and late-onset based on age of first attempt using a <strong>Gaussian mixture model (GMM)</strong> that identified a cutoff age of 30 years old.<br>
-
-<center><img src="/Users/yamachang/Desktop/academic-YC/content/project/CTQ/CTQ_GMM.png" width="100%"></img></center>
 
 Overall, we found group differences in emotional and physical abuse and neglect in both genders and sexual abuse in females, but not in males. Early-onset attempters experienced more childhood emotional abuse and neglect than late-onset attempters and were more likely to have experienced multiple forms of abuse. They also experienced more emotional abuse and neglect than all comparison groups. Consistently, early-onset attempters more often met criteria for current or lifetime PTSD relative to late-onset attempters and most comparison groups. Late-onset attempters had similar levels of childhood trauma as other depressed groups.</p>
 
