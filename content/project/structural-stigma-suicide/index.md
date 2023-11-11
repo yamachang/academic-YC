@@ -1,5 +1,5 @@
 ---
-date: "2023-11-03T00:00:00Z"
+date: "2023-01-03T00:00:00Z"
 external_link: ""
 image:
   caption: 
@@ -17,8 +17,8 @@ slides:
 summary: 
 tags:
 - Publication
-- Digital Mental Health
-title: Digital SSIs for Rural Adolescents
+- LGBTQ
+title: Structural Stigma and Suicidal Thoughts and Behavior
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -26,24 +26,23 @@ url_video: ""
 ---
 
 <p><strong>Objective</strong><br>
-Rural teens are less likely to access care for depression than urban teens. Evidence-based digital single-session interventions (SSIs), offered via social media advertisements, may be well-suited to narrowing this gap in treatment access and increasing rural adolescents’ access to support. We evaluated the viability of using social media-based advertisements to equitably recruit rural adolescents with elevated depression symptoms online SSIs; we sought to characterize and assess whether SSI completion rates and acceptability differed for rural versus more urban adolescents, across three intervention conditions (two active, evidence-based SSIs; one placebo control); and we tested whether digital SSIs differentially reduced depressive symptoms.</p>
+To determine how a statewide indicator of structural stigma is associated with suicidal thoughts and behaviors among sexual minority (SM) adolescents.</p>
 <p><strong>Method</strong><br>
-We used pre-intervention and three-month follow up data from 13- to 16-year-old adolescents (N = 2,322; 88% female; 55% non-Hispanic White) within a web-based randomized control trial of three free, online SSIs (ClinicalTrials.gov identifier: blinded for review) collected eight months into the COVID-19 pandemic in the United States.</p>
+We examined associations between structural stigma at the state level and suicidal thoughts and behaviors in a nationwide sample of sexual minority adolescents ages 14–18 in the United States (n=489) who completed a cross-sectional online survey in 2018.</p>
 <p><strong>Results</strong><br>
-Digital SSIs reached rural and urban adolescents at population-congruent rates; however, social media ads resulted in relative underrepresentation of rural youths who holding minoritized racial/ethnic identities. Rural adolescents also completed digital SSIs at similar rates to their urban peers, found SSIs equivalently as acceptable, and reported comparable depression symptom reductions as urban youth.</p>
+DState-level structural stigma was positively associated with higher levels of lifetime suicidal ideation after adjusting for demographic variables (OR = 1.345; p = .045). However, lifetime suicidal planning and suicide attempt were not related to structural stigma. </p>
 
 <p><strong>Conclusion</strong><br>
-Digital SSIs and their dissemination through social media may offer a promising means of narrowing the gap between rural and urban adolescents’ access to evidence-based mental health support; however, targeted efforts are warranted to reach racially minoritized youths in rural U.S. counties.</p>
+Sexual minority youth living in states with more structural stigma had a higher likelihood of experiencing lifetime suicidal ideation. Reducing risk for suicidal behavior among SM youth is a pressing public health concern. Public policies, societal conditions, and public attitudes that contribute to an affirming and inclusive environment for sexual minority youth have the potential to reduce suicidal ideation among sexual minority adolescents.</p>
 
 <p><strong>Citation</strong><br>
-Szkody, E., Chang, Y. W., & Schleider, J. L. (2023). Serving the Underserved? Uptake, Effectiveness, and Acceptability of Digital SSIs for Rural American Adolescents. <i>Journal of Clinical Child & Adolescent Psychology</i>, 1-14.
-                    <h6>Read more</h6>
-                    <hr>
-                    <span>This paper has been published on <a href="https://www.tandfonline.com/doi/abs/10.1080/15374416.2023.2272935">the Journal of Clinical Child and Adolescent Psychology</a>. If you need the access to the full paper, please don't hesitate to <a href="mailto:yc3508@tc.columbia.edu">email me</a>, and I'd be happy to provide you with the published PDF file. You can also find the pre-registration and open code on OSF.</span>
-                    <br><br><br>
-                    <div style="margin-top: 5px;">
+Schumacher, E.*, Chang, Y.*, Martino, R., Maheux, A., Choukas-Bradley, S., Salk, R., & Thoma, B. (Under Review). Structural Stigma and Suicidal Thoughts and Behavior Among U.S. Sexual Minority Youth.
+
+<h6>Read more</h6>
+<hr>
+<span>This paper is currently under review at <i>American Journal of Public Health</i> and I will update and share the open-source code once the paper is accepted.</span>
+                    <!--div style="margin-top: 5px;">
                       <a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://www.tandfonline.com/doi/abs/10.1080/15374416.2023.2272935">Paper</a>
                       <a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://osf.io/9jg5h">Pre-registration</a>
                       <a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://osf.io/5dt7q/">Open Data</a>
-                    </div>
-                  </div>
+                    </div-->
