@@ -2,7 +2,7 @@
 date: "2023-02-15T00:00:00Z"
 external_link: ""
 image:
-  caption: "Made by Yama Chang, 2021"
+  caption: "Comparison of Clinical Characteristics, Yama Chang © 2021"
   focal_point: ""
 # links:
 # - icon: twitter
