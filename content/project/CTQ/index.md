@@ -45,3 +45,6 @@ Chang, Y. W., Buerke, M., Galfalvy, H., & Szanto, K. (2023). Childhood trauma is
 <span>You can read the full text of this peer-reviewed paper on <a
                         href="https://www.cambridge.org/core/journals/international-psychogeriatrics/article/childhood-trauma-is-associated-with-earlyonset-but-not-lateonset-suicidal-behavior-in-latelife-depression/8A72EA4F601DB356E1212B96EF4240F9">International Psychogeriatrics</a>.</span>
 
+<div style="margin-top: 5px;">
+<a class="btn btn-secondary btn text-uppercase js-scroll-trigger" href="https://www.cambridge.org/core/journals/international-psychogeriatrics/article/childhood-trauma-is-associated-with-earlyonset-but-not-lateonset-suicidal-behavior-in-latelife-depression/8A72EA4F601DB356E1212B96EF4240F9">Publication</a>
+                  </div>
