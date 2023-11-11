@@ -13,7 +13,7 @@ slides:
 summary: 
 tags:
 - Publication
-title: Suicidal Ideation Trajectories - A Latent Profile Analysis of A Longitudinal Study
+title: Suicidal Ideation Trajectories - A Latent Profile Analysis
 url_code: ""
 url_pdf: ""
 url_slides: ""
