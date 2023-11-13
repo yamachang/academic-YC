@@ -34,8 +34,8 @@ url_video: ""
 
 <h6>Read more</h6>
 <hr>
-<span>We are currently drafting the manuscript. To explore the project in detail, please visit the GitHub repository. This repository contains analysis code for this project on the Open Science Framework (OSF).</span>
+<span>We are currently drafting the manuscript. For detailed project information, please visit the GitHub repository or find the pre-registration on the Open Science Framework (OSF).</span>
 <div style="margin-top: 5px;">
-<a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://github.com/yamachang/ttt-p1-main-analysis"  >Github</a>
+<a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://github.com/yamachang/ttt-p1-main-analysis">Github</a>
                       <a class="btn btn-primary btn text-uppercase js-scroll-trigger" href="https://osf.io/c4e75/">Pre-registration</a>
 
