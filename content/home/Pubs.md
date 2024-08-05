@@ -13,7 +13,7 @@ design:
 
 <h3>Manuscripts Published/Accepted</h3>
 
-***Chang, Y.**, Schumacher, E.,  Maheux, A. J., Martino, R. M., Choukas-Bradley, S., Salk, R. H., & Thoma, B. C. (Accepted). Structural Homophobia and Suicidal Ideation and Behavior Among Sexual and Gender Minority Adolescents. *Stigma and Health*<br/>
+***Chang, Y.**, *Schumacher, E.,  Maheux, A. J., Martino, R. M., Choukas-Bradley, S., Salk, R. H., & Thoma, B. C. (Accepted). Structural Homophobia and Suicidal Ideation and Behavior Among Sexual and Gender Minority Adolescents. *Stigma and Health*<br/>
 *The two first authors contributed equally to this work and should be considered joint first authors.
 
 Paine, E., Abad, M., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (Accepted). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigmatization and Stigma Avoidance in the Workplace. *Work and Occupations*
