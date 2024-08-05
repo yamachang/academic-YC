@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f37c41c2-41d8-4266-a828-0853b922f6d4)---
+---
 widget: blank
 headless: true
 
