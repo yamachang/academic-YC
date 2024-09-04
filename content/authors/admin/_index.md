@@ -10,33 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Data Scientist
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Lab for Scalable Mental Health, Northwestern University
-  url: "https://www.schleiderlab.org/"
+- name: Quantitative Biomedical Science, Dartmouth College
+  url: "[https://www.schleiderlab.org/](https://geiselmed.dartmouth.edu/qbs/)"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- structural stigma and health disparities
-- scalable interventions
-- digital mental health
+- digital mental health interventions
 - maching learning
-
+- health disparities
+- psychedelics research
+  
 education:
   courses:
+  - course: PhD in Quantitative Biomedical Science
+    institution: Dartmouth College
+    year: 2028
   - course: MA in Clinical Psychology
     institution: Columbia University
     year: 2020
   - course: BA in Economics
     institution: National Taiwan University
     year: 2012
-  - course: Exchange Student
-    institution: Stanford University
-    year: Summer 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,27 +45,27 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ya-wen.chang@stonybrook.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:ya-wen.chang.gr@dartmouth.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=AFAYk_sAAAAJ
 - icon: osf
   icon_pack: ai
   link: https://osf.io/v9r5z
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/yama_ywchang
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/yama_ywchang
 - icon: github
   icon_pack: fab
   link: https://github.com/yamachang
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yamachang-ds/
+# - icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/in/yamachang-ds/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-#- icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
