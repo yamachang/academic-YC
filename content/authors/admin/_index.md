@@ -22,7 +22,7 @@ bio:
 
 interests:
 - digital mental health interventions
-- maching learning
+- maching learning and deep learning
 - health disparities
 - psychedelics research
   
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Quantitative Biomedical Science
     institution: Dartmouth College
-    year: 2028
+    year: Expected 2028
   - course: MA in Clinical Psychology
     institution: Columbia University
     year: 2020
@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ya-wen.chang.gr@dartmouth.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:yama.chang.gr@dartmouth.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=AFAYk_sAAAAJ
@@ -77,7 +77,11 @@ user_groups:
 - Visitors
 ---
 
-I am a Data Scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/), working with [Jessica Schleider, PhD](https://www.schleiderlab.org/labdirector.html), and my amazing colleagues at [Northwestern University](https://cbits.northwestern.edu/) and the [Center for Behavioral Intervention Technologies](https://cbits.northwestern.edu/). I am currently exploring how digital, scalable, and evidence-based interventions (e.g., single-session interventions) can enhance access to mental health care for marginalized populations, such as LGBTQ+ and BIPOC individuals. Over the past couple years, I have honed my expertise at the intersection of data science and digital mental health. Harnessing computational techniques, I aim to leverage large-scale behavioral and language data to extract actionable insights to improve mental health. My goal is to develop accessible, scalable, evidence-based interventions to ameliorate disparities in mental health care. I am also interested in exploring the potential of large language models and artificial intelligence in delivering timely and personalized mental health tools to individuals in need.
+I am a PhD student in [Quantitative Biomedical Sciences](https://geiselmed.dartmouth.edu/qbs/) at Dartmouth College, focusing on developing accessible and scalable interventions to improve mental health. I am currently rotating at the [Artificial Intelligence and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH)](https://geiselmed.dartmouth.edu/jacobsonlab/) research lab within the Center for Technology and Behavioral Health. My research leverages computational techniques, including machine learning, deep learning, and large language models, to analyze extensive behavioral and language data from sources such as mobile sensors, intensive longitudinal studies, and social media platforms.
+
+Prior to my doctoral studies, I earned an MA in Clinical Psychology from Columbia University and worked as a Data Scientist at the Lab for Scalable Mental Health under Dr. Jessica Schleider. My work explored how digital, evidence-based interventions can enhance access to mental health care for marginalized populations, including LGBTQ+ and BIPOC individuals.
+
+My interdisciplinary background combines expertise in data science, clinical psychology, and digital mental health. I am to harness innovative technologies to address disparities in mental health care and develop interventions that are both effective and widely accessible.
 
 {{< icon name="fa-solid fa-laptop-code" >}} {{< staticref "https://yamachang.rbind.io/" "newtab" >}}&nbsp; View my Data Scientist Portfolio {{< /staticref >}} <br/>
 {{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/resume.pdf" "newtab" >}}&nbsp; View my Data Scientist resume {{< /staticref >}} <br/>
