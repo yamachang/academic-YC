@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student
+role: PhD Student in Quantitative Biomedical Science
 
 # Organizations/Affiliations
 organizations:
-- name: Quantitative Biomedical Science, Dartmouth College
-  url: "[https://www.schleiderlab.org/](https://geiselmed.dartmouth.edu/qbs/)"
+- name: Center for Technology and Behavioral Health, Dartmouth College
+  url: "[https://www.c4tbh.org/](https://www.c4tbh.org/)"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
