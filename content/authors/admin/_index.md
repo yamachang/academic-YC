@@ -34,10 +34,10 @@ education:
   courses:
   - course: PhD in Quantitative Biomedical Science
     institution: Dartmouth College
-    year: Expected 2028
+    year: ''
   - course: MA in Clinical Psychology
     institution: Columbia University
-    year: 2020
+    year: ''
   - course: BA in Economics
     institution: National Taiwan University
     year: ''
