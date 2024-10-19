@@ -79,10 +79,11 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
----
-
-I am a PhD student in [Quantitative Biomedical Sciences](https://geiselmed.dartmouth.edu/qbs/) at Dartmouth College, focusing on developing accessible and scalable interventions to improve mental health. I am currently rotating with Dr. Nicholas Jacobson at the [Artificial Intelligence and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH)](https://geiselmed.dartmouth.edu/jacobsonlab/) research lab within the Center for Technology and Behavioral Health. My research leverages computational techniques, including machine learning, deep learning, and large language models, to analyze extensive behavioral and language data from sources such as mobile sensors, intensive longitudinal studies, and social media platforms. Prior to my doctoral studies, I earned an MA in Clinical Psychology from Columbia University and worked as a Data Scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/). My work explored how digital, evidence-based interventions can enhance access to mental health care for marginalized populations, including LGBTQ+ and BIPOC individuals.
 
 # {{< icon name="fa-solid fa-laptop-code" >}} {{< staticref "https://yamachang.rbind.io/" "newtab" >}}&nbsp; View my Data Scientist Portfolio {{< /staticref >}} <br/>
 # {{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/resume.pdf" "newtab" >}}&nbsp; View my Data Scientist resume {{< /staticref >}} <br/>
 # {{< icon name="cloud-download-alt fa-fw" pack="fas" >}} {{< staticref "files/cv.pdf" "newtab" >}}&nbsp; View my Academic CV {{< /staticref >}} <br/>
+
+---
+
+I am a PhD student in [Quantitative Biomedical Sciences](https://geiselmed.dartmouth.edu/qbs/) at Dartmouth College, focusing on developing accessible and scalable interventions to improve mental health. I am currently rotating with Dr. Nicholas Jacobson at the [Artificial Intelligence and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH)](https://geiselmed.dartmouth.edu/jacobsonlab/) research lab within the Center for Technology and Behavioral Health. My research leverages computational techniques, including machine learning, deep learning, and large language models, to analyze extensive behavioral and language data from sources such as mobile sensors, intensive longitudinal studies, and social media platforms. Prior to my doctoral studies, I received an MA in Clinical Psychology from Columbia University and worked as a Data Scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/). My work explored how digital, evidence-based interventions can enhance access to mental health care for marginalized populations, including LGBTQ+ and BIPOC individuals.
