@@ -40,7 +40,7 @@ education:
     year: 2020
   - course: BA in Economics
     institution: National Taiwan University
-    year: 2012
+    year: ''
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
