@@ -15,7 +15,7 @@ role: PhD Student in Quantitative Biomedical Science
 # Organizations/Affiliations
 organizations:
 - name: Center for Technology and Behavioral Health, Dartmouth College
-  url: "[https://www.c4tbh.org/](https://www.c4tbh.org/)"
+  url: [https://www.c4tbh.org/](https://www.c4tbh.org/)
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
