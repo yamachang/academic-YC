@@ -10,10 +10,6 @@ authors:
 first_name: Ya-Wen (Yama)
 last_name: Chang
 
-# Status emoji
-status:
-  icon: 👩🏻‍💻
-
 # Is this the primary user of the site?
 superuser: true
 
