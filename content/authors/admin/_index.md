@@ -6,6 +6,14 @@ title: Ya-Wen (Yama) Chang
 authors:
 - admin
 
+# Full name (for SEO)
+first_name: Ya-Wen (Yama)
+last_name: Chang
+
+# Status emoji
+status:
+  icon: 👩🏻‍💻
+
 # Is this the primary user of the site?
 superuser: true
 
