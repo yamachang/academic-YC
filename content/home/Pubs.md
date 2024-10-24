@@ -26,13 +26,13 @@ Szkody, E., **Chang, Y.** Schleider, J. (2023). Serving the Underserved? Uptake,
 
 <h3>Manuscripts Under Review</h3>
 
+***Chang, Y.**, Sotomayor, I.,  Szkody, E., Fox, K., & Schleider, J. L. (under review). Effectiveness of an online single-session minority stress intervention: No evidence for variation by structural stigma or social support.
+
 **Chang, Y.**, Jackman, K., Dworkin, J., Singh, A., LeBlanc, A., & Bockting, W. (Under Review). Childhood Gender Nonconformity and Identity Development among a Diverse Transgender Community Sample in the United States. 
 
 Sotomayor, I., **Chang, Y.**, Szkody, E., Fox, K., & Schleider, J. L. (Under Review). A Digital, Minority Stress-Focused Single-Session Intervention Benefits Multiply-Minoritized Sexual Minority Adolescents.
 
 <h3>Manuscripts In Preparation</h3>
-
-**Chang, Y.**, Sotomayor, I., Szkody, E., Fox, K., & Schleider, J. L. (In Preparation). Effectiveness of an Online Single-Session Minority Stress Intervention: Variation by Structural Stigma?
 
 Brown, V., **Chang., Y**, Galfalvy., H, Gujral., S, Szanto, K., Dombrovski., A (In Preparation). Brain volume reductions in late-life suicide and relationship with depression and cognitive functioning: A cross-sectional and longitudinal study using Bayesian multilevel modeling.
 
