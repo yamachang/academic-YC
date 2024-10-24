@@ -16,7 +16,7 @@ design:
 ***Chang, Y.**, *Schumacher, E.,  Maheux, A. J., Martino, R. M., Choukas-Bradley, S., Salk, R. H., & Thoma, B. C. (2024). Structural Homophobia and Suicidal Ideation and Behavior Among Sexual and Gender Minority Adolescents. *Stigma and Health.* https://doi.org/10.1037/sah0000576 <br/>
 *The two first authors contributed equally to this work and should be considered joint first authors.
 
-Paine, E., Abad, M., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (2024). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigmatization and Stigma Avoidance in the Workplace. *Work and Occupations*
+Paine, E., Abad, M., Barucco, R., **Chang, Y.**, Navalta, T., Ehrhardt, A., & Bockting, W. (2024). “Too Much Trouble”: Transgender and Nonbinary People’s Experiences of Stigmatization and Stigma Avoidance in the Workplace. *Work and Occupations* https://doi.org/10.1177/073088842412687 <br/>
 
 **Chang, Y.**, Buerke, M., Galfalvy, H., & Szanto, K. (2023). Childhood trauma is associated with early-onset but not late-onset suicidal behavior in late-life depression. *International Psychogeriatrics*, 1-14. [doi:10.1017/S1041610223000662](https://pubmed.ncbi.nlm.nih.gov/37642013/)  
 
