@@ -25,10 +25,10 @@ organizations:
 bio: 
 
 interests:
-- digital mental health interventions
-- maching learning and deep learning
-- health disparities
-- psychedelics research
+- Digital Mental Health Interventions
+- Just-in-Time Adaptive Interventions
+- AI-driven Mental Health
+- Psychedelics Research
   
 education:
   courses:
@@ -67,9 +67,9 @@ social:
 #  link: https://www.linkedin.com/in/yamachang-ds/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#  icon_pack: ai
-#  link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -86,4 +86,8 @@ user_groups:
 
 ---
 
-I am a PhD student in [Quantitative Biomedical Sciences](https://geiselmed.dartmouth.edu/qbs/) at Dartmouth College, focusing on developing accessible and scalable interventions to improve mental health. I am currently rotating with Dr. Nicholas Jacobson at the [Artificial Intelligence and Mental Health: Innovation in Technology Guided Healthcare (AIM HIGH)](https://geiselmed.dartmouth.edu/jacobsonlab/) research lab within the Center for Technology and Behavioral Health. My research leverages computational techniques, including machine learning, deep learning, and large language models, to analyze extensive behavioral and language data from sources such as mobile sensors, intensive longitudinal studies, and social media platforms. Prior to my doctoral studies, I received an MA in Clinical Psychology from Columbia University and worked as a Data Scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/). My work explored how digital, evidence-based interventions can enhance access to mental health care for marginalized populations, including LGBTQ+ and BIPOC individuals.
+Yama Chang (she/her) is a PhD student in the [Quantitative Biomedical Sciences (QBS)](https://geiselmed.dartmouth.edu/qbs/) program at Dartmouth College, mentored by Dr. Nicholas Jacobson in the [Artificial Intelligence and Mental Health: Innovation in Technology Guided Healthcare Lab](https://geiselmed.dartmouth.edu/jacobsonlab/) at the Center for Technology and Behavioral Health.
+
+Her research focuses on leveraging passive sensing, wearable devices, large language models (LLMs), and just-in-time adaptive interventions (JITAIs) to deliver scalable, personalized support for mental wellness. As part of the Evergreen AI initiative at Dartmouth, Yama is conducting research on the design and evaluation of a real-time, campus-wide intervention system that integrates multimodal data streams with LLM-based decision engines to deliver safe and adaptive support for undergraduate students. More broadly, she is interested in optimizing the timing of digital interventions and advancing clinical safety in AI-driven mental health systems.
+
+Before beginning her PhD, Yama earned a master's in Clinical Psychology from Columbia University and worked as a data scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/).

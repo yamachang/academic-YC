@@ -1,0 +1,9 @@
+name = "Minimal"
+
+# Google Fonts
+google_fonts = "family=Inter:wght@400;500;600;700"
+
+heading_font = "Inter"
+body_font = "Inter"
+nav_font = "Inter"
+mono_font = "SFMono-Regular"

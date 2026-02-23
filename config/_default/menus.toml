@@ -29,12 +29,7 @@
 #  weight = 50
 
 [[main]]
-  name = "Awards"
-  url = "#Awards"
-  weight = 55
-
-[[main]]
-  name = "Open Access Resources"
+  name = "Resources"
   url = "#OpenResources"
   weight = 60
 

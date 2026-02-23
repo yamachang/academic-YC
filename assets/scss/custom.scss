@@ -1,0 +1,44 @@
+// Cover page / bio section — inspired by updated template
+#about {
+  background: linear-gradient(135deg, #f0f4f3 0%, #e8eeec 50%, #f5f7f6 100%);
+  padding: 80px 0;
+}
+
+.avatar-circle {
+  width: 180px;
+  height: 180px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.portrait-title h2 {
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.network-icon {
+  font-size: 1.2rem;
+}
+
+// General style refinements
+.home-section {
+  padding: 60px 0;
+}
+
+.section-heading h1 {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.card {
+  border: none;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: box-shadow 0.2s ease;
+}
+
+.card:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+}
+
+.navbar {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
