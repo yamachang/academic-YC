@@ -90,4 +90,4 @@ Yama Chang (she/her) is a PhD student in the [Quantitative Biomedical Sciences (
 
 Her research focuses on leveraging passive sensing, wearable devices, large language models (LLMs), and just-in-time adaptive interventions (JITAIs) to deliver scalable, personalized support for mental wellness. As part of the Evergreen AI initiative at Dartmouth, Yama is conducting research on the design and evaluation of a real-time, campus-wide intervention system that integrates multimodal data streams with LLM-based decision engines to deliver safe and adaptive support for undergraduate students. More broadly, she is interested in optimizing the timing of digital interventions and advancing clinical safety in AI-driven mental health systems.
 
-Before beginning her PhD, Yama earned a master's in Clinical Psychology from Columbia University and worked as a data scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/).
+Before beginning her PhD, Yama earned a master’s in Clinical Psychology from Columbia University and worked as a data scientist at the [Lab for Scalable Mental Health](https://www.schleiderlab.org/).
